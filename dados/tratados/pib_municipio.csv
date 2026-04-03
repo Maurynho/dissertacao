@@ -1,0 +1,5571 @@
+municipio,participacao
+Alta Floresta D'Oeste,0.00815
+Ariquemes,0.03562
+Cabixi,0.00265
+Cacoal,0.03098
+Cerejeiras,0.00824
+Colorado do Oeste,0.00471
+Corumbiara,0.0044
+Costa Marques,0.00351
+Espigão D'Oeste,0.00858
+Guajará-Mirim,0.0117
+Jaru,0.01959
+Ji-Paraná,0.04695
+Machadinho D'Oeste,0.00988
+Nova Brasilândia D'Oeste,0.00609
+Ouro Preto do Oeste,0.01094
+Pimenta Bueno,0.01823
+Porto Velho,0.22258
+Presidente Médici,0.00621
+Rio Crespo,0.00205
+Rolim de Moura,0.01737
+Santa Luzia D'Oeste,0.00237
+Vilhena,0.04677
+São Miguel do Guaporé,0.01005
+Nova Mamoré,0.00824
+Alvorada D'Oeste,0.00391
+Alto Alegre dos Parecis,0.00537
+Alto Paraíso,0.00566
+Buritis,0.01072
+Novo Horizonte do Oeste,0.00257
+Cacaulândia,0.00306
+Campo Novo de Rondônia,0.0041
+Candeias do Jamari,0.00727
+Castanheiras,0.00111
+Chupinguaia,0.0052
+Cujubim,0.00541
+Governador Jorge Teixeira,0.00266
+Itapuã do Oeste,0.00233
+Ministro Andreazza,0.00331
+Mirante da Serra,0.00291
+Monte Negro,0.00433
+Nova União,0.00175
+Parecis,0.00172
+Pimenteiras do Oeste,0.00273
+Primavera de Rondônia,0.00119
+São Felipe D'Oeste,0.00145
+São Francisco do Guaporé,0.00542
+Seringueiras,0.00369
+Teixeirópolis,0.00135
+Theobroma,0.00286
+Urupá,0.00303
+Vale do Anari,0.00245
+Vale do Paraíso,0.00206
+Acrelândia,0.00442
+Assis Brasil,0.00149
+Brasiléia,0.00761
+Bujari,0.00334
+Capixaba,0.00569
+Cruzeiro do Sul,0.02284
+Epitaciolândia,0.00715
+Feijó,0.00629
+Jordão,0.00126
+Mâncio Lima,0.00299
+Manoel Urbano,0.00205
+Marechal Thaumaturgo,0.00285
+Plácido de Castro,0.00667
+Porto Walter,0.00178
+Rio Branco,0.12157
+Rodrigues Alves,0.00284
+Santa Rosa do Purus,0.0012
+Senador Guiomard,0.00865
+Sena Madureira,0.0083
+Tarauacá,0.0079
+Xapuri,0.00505
+Porto Acre,0.00523
+Alvarães,0.00241
+Amaturá,0.00132
+Anamã,0.00154
+Anori,0.00276
+Apuí,0.0033
+Atalaia do Norte,0.00205
+Autazes,0.00562
+Barcelos,0.00273
+Barreirinha,0.00383
+Benjamin Constant,0.00431
+Beruri,0.00235
+Boa Vista do Ramos,0.00202
+Boca do Acre,0.00569
+Borba,0.00446
+Caapiranga,0.00197
+Canutama,0.00171
+Carauari,0.00411
+Careiro,0.00439
+Careiro da Várzea,0.00459
+Coari,0.03751
+Codajás,0.0059
+Eirunepé,0.0063
+Envira,0.00239
+Fonte Boa,0.00247
+Guajará,0.00197
+Humaitá,0.00954
+Ipixuna,0.0024
+Iranduba,0.01112
+Itacoatiara,0.02608
+Itamarati,0.0015
+Itapiranga,0.00169
+Japurá,0.00095
+Juruá,0.00153
+Jutaí,0.00296
+Lábrea,0.00694
+Manacapuru,0.01714
+Manaquiri,0.00345
+Manaus,1.14603
+Manicoré,0.00762
+Maraã,0.00196
+Maués,0.00661
+Nhamundá,0.0023
+Nova Olinda do Norte,0.00379
+Novo Airão,0.00207
+Novo Aripuanã,0.0028
+Parintins,0.01583
+Pauini,0.00221
+Presidente Figueiredo,0.01145
+Rio Preto da Eva,0.00452
+Santa Isabel do Rio Negro,0.00206
+Santo Antônio do Içá,0.00263
+São Gabriel da Cachoeira,0.00469
+São Paulo de Olivença,0.00371
+São Sebastião do Uatumã,0.00152
+Silves,0.00194
+Tabatinga,0.00841
+Tapauá,0.00266
+Tefé,0.01219
+Tonantins,0.00206
+Uarini,0.00254
+Urucará,0.00228
+Urucurituba,0.00258
+Amajari,0.00267
+Alto Alegre,0.00428
+Boa Vista,0.14972
+Bonfim,0.0058
+Cantá,0.00392
+Caracaraí,0.00503
+Caroebe,0.00263
+Iracema,0.00231
+Mucajaí,0.00437
+Normandia,0.00225
+Pacaraima,0.00365
+Rorainópolis,0.00813
+São João da Baliza,0.00364
+São Luiz,0.00199
+Uiramutã,0.0016
+Abaetetuba,0.02163
+Abel Figueiredo,0.00117
+Acará,0.01591
+Afuá,0.00493
+Água Azul do Norte,0.00714
+Alenquer,0.00827
+Almeirim,0.00764
+Altamira,0.03462
+Anajás,0.00287
+Ananindeua,0.0992
+Anapu,0.00652
+Augusto Corrêa,0.00404
+Aurora do Pará,0.00342
+Aveiro,0.00169
+Bagre,0.00278
+Baião,0.00624
+Bannach,0.00143
+Barcarena,0.10257
+Belém,0.37136
+Belterra,0.00263
+Benevides,0.02205
+Bom Jesus do Tocantins,0.00271
+Bonito,0.00229
+Bragança,0.01542
+Brasil Novo,0.00421
+Brejo Grande do Araguaia,0.00128
+Breu Branco,0.00881
+Breves,0.00992
+Bujaru,0.00596
+Cachoeira do Piriá,0.00253
+Cachoeira do Arari,0.00284
+Cametá,0.01546
+Canaã dos Carajás,0.38825
+Capanema,0.01584
+Capitão Poço,0.00683
+Castanhal,0.05226
+Chaves,0.00275
+Colares,0.00112
+Conceição do Araguaia,0.00735
+Concórdia do Pará,0.00466
+Cumaru do Norte,0.00452
+Curionópolis,0.04069
+Curralinho,0.00313
+Curuá,0.00166
+Curuçá,0.0041
+Dom Eliseu,0.01044
+Eldorado do Carajás,0.00617
+Faro,0.00085
+Floresta do Araguaia,0.00669
+Garrafão do Norte,0.00306
+Goianésia do Pará,0.00562
+Gurupá,0.00371
+Igarapé-Açu,0.00461
+Igarapé-Miri,0.00767
+Inhangapi,0.00194
+Ipixuna do Pará,0.00694
+Irituia,0.00308
+Itaituba,0.03416
+Itupiranga,0.00934
+Jacareacanga,0.00694
+Jacundá,0.00683
+Juruti,0.01611
+Limoeiro do Ajuru,0.00558
+Mãe do Rio,0.00378
+Magalhães Barata,0.00109
+Marabá,0.15005
+Maracanã,0.00322
+Marapanim,0.00293
+Marituba,0.02861
+Medicilândia,0.01136
+Melgaço,0.00241
+Mocajuba,0.00502
+Moju,0.01496
+Mojuí dos Campos,0.0032
+Monte Alegre,0.00896
+Muaná,0.00376
+Nova Esperança do Piriá,0.00389
+Nova Ipixuna,0.00214
+Nova Timboteua,0.00164
+Novo Progresso,0.01078
+Novo Repartimento,0.01239
+Óbidos,0.01072
+Oeiras do Pará,0.00465
+Oriximiná,0.02528
+Ourém,0.00223
+Ourilândia do Norte,0.01445
+Pacajá,0.00963
+Palestina do Pará,0.0011
+Paragominas,0.0475
+Parauapebas,0.55218
+Pau D'Arco,0.00127
+Peixe-Boi,0.0008
+Piçarra,0.00325
+Placas,0.00359
+Ponta de Pedras,0.00305
+Portel,0.01049
+Porto de Moz,0.00449
+Prainha,0.00492
+Primavera,0.00357
+Quatipuru,0.00134
+Redenção,0.02832
+Rio Maria,0.00668
+Rondon do Pará,0.00815
+Rurópolis,0.00551
+Salinópolis,0.00712
+Salvaterra,0.00233
+Santa Bárbara do Pará,0.00267
+Santa Cruz do Arari,0.00107
+Santa Izabel do Pará,0.01038
+Santa Luzia do Pará,0.00218
+Santa Maria das Barreiras,0.0119
+Santa Maria do Pará,0.00412
+Santana do Araguaia,0.01533
+Santarém,0.07091
+Santarém Novo,0.00067
+Santo Antônio do Tauá,0.00528
+São Caetano de Odivelas,0.00203
+São Domingos do Araguaia,0.00398
+São Domingos do Capim,0.00486
+São Félix do Xingu,0.02229
+São Francisco do Pará,0.00293
+São Geraldo do Araguaia,0.00789
+São João da Ponta,0.00064
+São João de Pirabas,0.00202
+São João do Araguaia,0.00207
+São Miguel do Guamá,0.0088
+São Sebastião da Boa Vista,0.00272
+Sapucaia,0.00157
+Senador José Porfírio,0.00273
+Soure,0.00268
+Tailândia,0.01433
+Terra Alta,0.00092
+Terra Santa,0.00576
+Tomé-Açu,0.01155
+Tracuateua,0.00317
+Trairão,0.00363
+Tucumã,0.01092
+Tucuruí,0.0623
+Ulianópolis,0.02215
+Uruará,0.00859
+Vigia,0.00529
+Viseu,0.00686
+Vitória do Xingu,0.04695
+Xinguara,0.01781
+Serra do Navio,0.00102
+Amapá,0.00177
+Pedra Branca do Amapari,0.00503
+Calçoene,0.00205
+Cutias,0.00105
+Ferreira Gomes,0.00642
+Itaubal,0.00098
+Laranjal do Jari,0.01259
+Macapá,0.14356
+Mazagão,0.00419
+Oiapoque,0.00587
+Porto Grande,0.00415
+Pracuúba,0.00094
+Santana,0.02788
+Tartarugalzinho,0.00291
+Vitória do Jari,0.00263
+Abreulândia,0.00124
+Aguiarnópolis,0.00184
+Aliança do Tocantins,0.00684
+Almas,0.00304
+Alvorada,0.00526
+Ananás,0.00177
+Angico,0.00054
+Aparecida do Rio Negro,0.00284
+Aragominas,0.00109
+Araguacema,0.00267
+Araguaçu,0.00387
+Araguaína,0.05813
+Araguanã,0.00113
+Araguatins,0.00587
+Arapoema,0.0036
+Arraias,0.00248
+Augustinópolis,0.00339
+Aurora do Tocantins,0.00065
+Axixá do Tocantins,0.00157
+Babaçulândia,0.00176
+Bandeirantes do Tocantins,0.00198
+Barra do Ouro,0.00126
+Barrolândia,0.00135
+Bernardo Sayão,0.00114
+Bom Jesus do Tocantins,0.00155
+Brasilândia do Tocantins,0.00084
+Brejinho de Nazaré,0.00303
+Buriti do Tocantins,0.00179
+Cachoeirinha,0.00065
+Campos Lindos,0.01115
+Cariri do Tocantins,0.00574
+Carmolândia,0.00077
+Carrasco Bonito,0.00056
+Caseara,0.00432
+Centenário,0.00072
+Chapada de Areia,0.00044
+Chapada da Natividade,0.00165
+Colinas do Tocantins,0.00957
+Combinado,0.00085
+Conceição do Tocantins,0.00075
+Couto Magalhães,0.00226
+Cristalândia,0.00197
+Crixás do Tocantins,0.00087
+Darcinópolis,0.00268
+Dianópolis,0.00716
+Divinópolis do Tocantins,0.00277
+Dois Irmãos do Tocantins,0.0024
+Dueré,0.00227
+Esperantina,0.00132
+Fátima,0.00099
+Figueirópolis,0.00285
+Filadélfia,0.00143
+Formoso do Araguaia,0.01569
+Tabocão,0.00258
+Goianorte,0.00215
+Goiatins,0.00256
+Guaraí,0.00977
+Gurupi,0.02939
+Ipueiras,0.00053
+Itacajá,0.00207
+Itaguatins,0.00092
+Itapiratins,0.0019
+Itaporã do Tocantins,0.00078
+Jaú do Tocantins,0.00109
+Juarina,0.00049
+Lagoa da Confusão,0.01108
+Lagoa do Tocantins,0.00099
+Lajeado,0.00071
+Lavandeira,0.00042
+Lizarda,0.00074
+Luzinópolis,0.00079
+Marianópolis do Tocantins,0.0028
+Mateiros,0.0028
+Maurilândia do Tocantins,0.00062
+Miracema do Tocantins,0.00712
+Miranorte,0.00433
+Monte do Carmo,0.00329
+Monte Santo do Tocantins,0.00083
+Palmeiras do Tocantins,0.00106
+Muricilândia,0.00077
+Natividade,0.00274
+Nazaré,0.00065
+Nova Olinda,0.00355
+Nova Rosalândia,0.00112
+Novo Acordo,0.00094
+Novo Alegre,0.00039
+Novo Jardim,0.00047
+Oliveira de Fátima,0.00033
+Palmeirante,0.00206
+Palmeirópolis,0.00189
+Paraíso do Tocantins,0.0168
+Paranã,0.0035
+Pau D'Arco,0.00101
+Pedro Afonso,0.00942
+Peixe,0.00814
+Pequizeiro,0.00119
+Colméia,0.00203
+Pindorama do Tocantins,0.00094
+Piraquê,0.001
+Pium,0.00402
+Ponte Alta do Bom Jesus,0.00073
+Ponte Alta do Tocantins,0.00134
+Porto Alegre do Tocantins,0.00052
+Porto Nacional,0.04049
+Praia Norte,0.00103
+Presidente Kennedy,0.00072
+Pugmil,0.00092
+Recursolândia,0.00102
+Riachinho,0.00076
+Rio da Conceição,0.00032
+Rio dos Bois,0.00095
+Rio Sono,0.00124
+Sampaio,0.00162
+Sandolândia,0.0013
+Santa Fé do Araguaia,0.00195
+Santa Maria do Tocantins,0.00155
+Santa Rita do Tocantins,0.002
+Santa Rosa do Tocantins,0.00341
+Santa Tereza do Tocantins,0.00053
+Santa Terezinha do Tocantins,0.00047
+São Bento do Tocantins,0.00082
+São Félix do Tocantins,0.00041
+São Miguel do Tocantins,0.00284
+São Salvador do Tocantins,0.00055
+São Sebastião do Tocantins,0.00069
+São Valério,0.00174
+Silvanópolis,0.00267
+Sítio Novo do Tocantins,0.00147
+Sucupira,0.00591
+Taguatinga,0.00353
+Taipas do Tocantins,0.00039
+Talismã,0.00163
+Palmas,0.11466
+Tocantínia,0.00212
+Tocantinópolis,0.00413
+Tupirama,0.00132
+Tupiratins,0.00043
+Wanderlândia,0.00204
+Xambioá,0.00523
+Açailândia,0.04248
+Afonso Cunha,0.00094
+Água Doce do Maranhão,0.00113
+Alcântara,0.00165
+Aldeias Altas,0.00277
+Altamira do Maranhão,0.00079
+Alto Alegre do Maranhão,0.00336
+Alto Alegre do Pindaré,0.00279
+Alto Parnaíba,0.00642
+Amapá do Maranhão,0.00078
+Amarante do Maranhão,0.00431
+Anajatuba,0.0023
+Anapurus,0.00165
+Apicum-Açu,0.00149
+Araguanã,0.00113
+Araioses,0.00314
+Arame,0.00322
+Arari,0.00348
+Axixá,0.00108
+Bacabal,0.01681
+Bacabeira,0.00665
+Bacuri,0.00136
+Bacurituba,0.00044
+Balsas,0.06999
+Barão de Grajaú,0.00298
+Barra do Corda,0.00987
+Barreirinhas,0.00705
+Belágua,0.00067
+Bela Vista do Maranhão,0.00119
+Benedito Leite,0.00081
+Bequimão,0.00153
+Bernardo do Mearim,0.00117
+Boa Vista do Gurupi,0.00075
+Bom Jardim,0.00457
+Bom Jesus das Selvas,0.00417
+Bom Lugar,0.00131
+Brejo,0.00365
+Brejo de Areia,0.00079
+Buriti,0.00308
+Buriti Bravo,0.00265
+Buriticupu,0.0083
+Buritirana,0.00136
+Cachoeira Grande,0.00068
+Cajapió,0.00078
+Cajari,0.00142
+Campestre do Maranhão,0.00237
+Cândido Mendes,0.00163
+Cantanhede,0.0017
+Capinzal do Norte,0.00315
+Carolina,0.00584
+Carutapera,0.00224
+Caxias,0.02345
+Cedral,0.00087
+Central do Maranhão,0.00065
+Centro do Guilherme,0.00115
+Centro Novo do Maranhão,0.00223
+Chapadinha,0.00993
+Cidelândia,0.00204
+Codó,0.0183
+Coelho Neto,0.00513
+Colinas,0.00614
+Conceição do Lago-Açu,0.00163
+Coroatá,0.00592
+Cururupu,0.00294
+Davinópolis,0.00211
+Dom Pedro,0.00291
+Duque Bacelar,0.00096
+Esperantinópolis,0.00176
+Estreito,0.01264
+Feira Nova do Maranhão,0.00131
+Fernando Falcão,0.00111
+Formosa da Serra Negra,0.00224
+Fortaleza dos Nogueiras,0.00385
+Fortuna,0.00159
+Godofredo Viana,0.0295
+Gonçalves Dias,0.00167
+Governador Archer,0.00102
+Governador Edison Lobão,0.00416
+Governador Eugênio Barros,0.00131
+Governador Luiz Rocha,0.00079
+Governador Newton Bello,0.00093
+Governador Nunes Freire,0.00286
+Graça Aranha,0.0006
+Grajaú,0.01276
+Guimarães,0.00104
+Humberto de Campos,0.00205
+Icatu,0.00199
+Igarapé do Meio,0.00411
+Igarapé Grande,0.00131
+Imperatriz,0.08537
+Itaipava do Grajaú,0.00119
+Itapecuru Mirim,0.00858
+Itinga do Maranhão,0.00543
+Jatobá,0.00084
+Jenipapo dos Vieiras,0.0014
+João Lisboa,0.003
+Joselândia,0.00129
+Junco do Maranhão,0.00068
+Lago da Pedra,0.00611
+Lago do Junco,0.00096
+Lago Verde,0.00151
+Lagoa do Mato,0.00108
+Lago dos Rodrigues,0.00093
+Lagoa Grande do Maranhão,0.00114
+Lajeado Novo,0.00113
+Lima Campos,0.00305
+Loreto,0.00459
+Luís Domingues,0.00064
+Magalhães de Almeida,0.00156
+Maracaçumé,0.0023
+Marajá do Sena,0.00101
+Maranhãozinho,0.00134
+Mata Roma,0.00199
+Matinha,0.00218
+Matões,0.00285
+Matões do Norte,0.0011
+Milagres do Maranhão,0.00071
+Mirador,0.00308
+Miranda do Norte,0.00875
+Mirinzal,0.00124
+Monção,0.00286
+Montes Altos,0.00096
+Morros,0.00166
+Nina Rodrigues,0.00098
+Nova Colinas,0.00096
+Nova Iorque,0.00057
+Nova Olinda do Maranhão,0.00203
+Olho d'Água das Cunhãs,0.00209
+Olinda Nova do Maranhão,0.00119
+Paço do Lumiar,0.01377
+Palmeirândia,0.00154
+Paraibano,0.00203
+Parnarama,0.00358
+Passagem Franca,0.00222
+Pastos Bons,0.00343
+Paulino Neves,0.00131
+Paulo Ramos,0.00215
+Pedreiras,0.00874
+Pedro do Rosário,0.00175
+Penalva,0.00282
+Peri Mirim,0.00106
+Peritoró,0.00256
+Pindaré-Mirim,0.00329
+Pinheiro,0.01154
+Pio XII,0.00212
+Pirapemas,0.00145
+Poção de Pedras,0.00181
+Porto Franco,0.01139
+Porto Rico do Maranhão,0.00051
+Presidente Dutra,0.00839
+Presidente Juscelino,0.00094
+Presidente Médici,0.00067
+Presidente Sarney,0.00183
+Presidente Vargas,0.00085
+Primeira Cruz,0.00099
+Raposa,0.00318
+Riachão,0.00747
+Ribamar Fiquene,0.00138
+Rosário,0.00492
+Sambaíba,0.00527
+Santa Filomena do Maranhão,0.00067
+Santa Helena,0.00397
+Santa Inês,0.01627
+Santa Luzia,0.00825
+Santa Luzia do Paruá,0.00281
+Santa Quitéria do Maranhão,0.00242
+Santa Rita,0.00394
+Santana do Maranhão,0.00082
+Santo Amaro do Maranhão,0.00106
+Santo Antônio dos Lopes,0.03391
+São Benedito do Rio Preto,0.00159
+São Bento,0.00346
+São Bernardo,0.00312
+São Domingos do Azeitão,0.00356
+São Domingos do Maranhão,0.00395
+São Félix de Balsas,0.00096
+São Francisco do Brejão,0.00135
+São Francisco do Maranhão,0.0011
+São João Batista,0.0015
+São João do Carú,0.00137
+São João do Paraíso,0.00168
+São João do Soter,0.00174
+São João dos Patos,0.00378
+São José de Ribamar,0.02545
+São José dos Basílios,0.00069
+São Luís,0.4054
+São Luís Gonzaga do Maranhão,0.00189
+São Mateus do Maranhão,0.00476
+São Pedro da Água Branca,0.00142
+São Pedro dos Crentes,0.00093
+São Raimundo das Mangabeiras,0.00821
+São Raimundo do Doca Bezerra,0.00049
+São Roberto,0.00051
+São Vicente Ferrer,0.00162
+Satubinha,0.00103
+Senador Alexandre Costa,0.00113
+Senador La Rocque,0.00208
+Serrano do Maranhão,0.0008
+Sítio Novo,0.00246
+Sucupira do Norte,0.0014
+Sucupira do Riachão,0.00053
+Tasso Fragoso,0.02609
+Timbiras,0.00218
+Timon,0.02575
+Trizidela do Vale,0.00583
+Tufilândia,0.00067
+Tuntum,0.00405
+Turiaçu,0.00328
+Turilândia,0.00248
+Tutóia,0.00606
+Urbano Santos,0.00275
+Vargem Grande,0.00481
+Viana,0.00544
+Vila Nova dos Martírios,0.00174
+Vitória do Mearim,0.00353
+Vitorino Freire,0.00361
+Zé Doca,0.00629
+Acauã,0.00082
+Agricolândia,0.00052
+Água Branca,0.00271
+Alagoinha do Piauí,0.00073
+Alegrete do Piauí,0.00053
+Alto Longá,0.00145
+Altos,0.00597
+Alvorada do Gurguéia,0.00091
+Amarante,0.00214
+Angical do Piauí,0.00074
+Anísio de Abreu,0.0011
+Antônio Almeida,0.0016
+Aroazes,0.00064
+Aroeiras do Itaim,0.00027
+Arraial,0.00054
+Assunção do Piauí,0.00071
+Avelino Lopes,0.00108
+Baixa Grande do Ribeiro,0.01962
+Barra D'Alcântara,0.00043
+Barras,0.00552
+Barreiras do Piauí,0.00181
+Barro Duro,0.001
+Batalha,0.00278
+Bela Vista do Piauí,0.00052
+Belém do Piauí,0.00046
+Beneditinos,0.00102
+Bertolínia,0.0008
+Betânia do Piauí,0.00069
+Boa Hora,0.00069
+Bocaina,0.00053
+Bom Jesus,0.01565
+Bom Princípio do Piauí,0.00078
+Bonfim do Piauí,0.00059
+Boqueirão do Piauí,0.00057
+Brasileira,0.00077
+Brejo do Piauí,0.00049
+Buriti dos Lopes,0.00238
+Buriti dos Montes,0.00077
+Cabeceiras do Piauí,0.00096
+Cajazeiras do Piauí,0.00038
+Cajueiro da Praia,0.00128
+Caldeirão Grande do Piauí,0.00216
+Campinas do Piauí,0.00064
+Campo Alegre do Fidalgo,0.00057
+Campo Grande do Piauí,0.00069
+Campo Largo do Piauí,0.00063
+Campo Maior,0.00783
+Canavieira,0.00047
+Canto do Buriti,0.00301
+Capitão de Campos,0.00118
+Capitão Gervásio Oliveira,0.00048
+Caracol,0.00108
+Caraúbas do Piauí,0.00064
+Caridade do Piauí,0.00056
+Castelo do Piauí,0.00225
+Caxingó,0.00059
+Cocal,0.00303
+Cocal de Telha,0.00052
+Cocal dos Alves,0.00063
+Coivaras,0.00042
+Colônia do Gurguéia,0.00078
+Colônia do Piauí,0.00076
+Conceição do Canindé,0.00067
+Coronel José Dias,0.00045
+Corrente,0.00755
+Cristalândia do Piauí,0.00083
+Cristino Castro,0.00135
+Curimatá,0.00157
+Currais,0.00454
+Curralinhos,0.00044
+Curral Novo do Piauí,0.00087
+Demerval Lobão,0.00235
+Dirceu Arcoverde,0.00075
+Dom Expedito Lopes,0.00087
+Domingos Mourão,0.00052
+Dom Inocêncio,0.00182
+Elesbão Veloso,0.00183
+Eliseu Martins,0.00062
+Esperantina,0.00507
+Fartura do Piauí,0.00052
+Flores do Piauí,0.00053
+Floresta do Piauí,0.00028
+Floriano,0.0163
+Francinópolis,0.0005
+Francisco Ayres,0.00052
+Francisco Macedo,0.00036
+Francisco Santos,0.00092
+Fronteiras,0.00125
+Geminiano,0.00066
+Gilbués,0.00463
+Guadalupe,0.00707
+Guaribas,0.0005
+Hugo Napoleão,0.00038
+Ilha Grande,0.00133
+Inhuma,0.00182
+Ipiranga do Piauí,0.00091
+Isaías Coelho,0.0009
+Itainópolis,0.0012
+Itaueira,0.00146
+Jacobina do Piauí,0.00077
+Jaicós,0.00213
+Jardim do Mulato,0.00044
+Jatobá do Piauí,0.00065
+Jerumenha,0.0007
+João Costa,0.00077
+Joaquim Pires,0.00132
+Joca Marques,0.00051
+José de Freitas,0.00434
+Juazeiro do Piauí,0.00062
+Júlio Borges,0.0009
+Jurema,0.00048
+Lagoinha do Piauí,0.00045
+Lagoa Alegre,0.00086
+Lagoa do Barro do Piauí,0.00593
+Lagoa de São Francisco,0.00061
+Lagoa do Piauí,0.00084
+Lagoa do Sítio,0.00054
+Landri Sales,0.00122
+Luís Correia,0.0042
+Luzilândia,0.00268
+Madeiro,0.00083
+Manoel Emídio,0.00061
+Marcolândia,0.0022
+Marcos Parente,0.00061
+Massapê do Piauí,0.00058
+Matias Olímpio,0.00106
+Miguel Alves,0.00347
+Miguel Leão,0.00026
+Milton Brandão,0.00059
+Monsenhor Gil,0.00141
+Monsenhor Hipólito,0.00081
+Monte Alegre do Piauí,0.00331
+Morro Cabeça no Tempo,0.00043
+Morro do Chapéu do Piauí,0.00069
+Murici dos Portelas,0.00083
+Nazaré do Piauí,0.00074
+Nazária,0.00105
+Nossa Senhora de Nazaré,0.00053
+Nossa Senhora dos Remédios,0.00087
+Novo Oriente do Piauí,0.00065
+Novo Santo Antônio,0.00035
+Oeiras,0.00648
+Olho D'Água do Piauí,0.00032
+Padre Marcos,0.00082
+Paes Landim,0.00049
+Pajeú do Piauí,0.00058
+Palmeira do Piauí,0.00157
+Palmeirais,0.00154
+Paquetá,0.00049
+Parnaguá,0.00132
+Parnaíba,0.03294
+Passagem Franca do Piauí,0.00054
+Patos do Piauí,0.00072
+Pau D'Arco do Piauí,0.00037
+Paulistana,0.00297
+Pavussu,0.00042
+Pedro II,0.00429
+Pedro Laurentino,0.00035
+Nova Santa Rita,0.00049
+Picos,0.02153
+Pimenteiras,0.00119
+Pio IX,0.00225
+Piracuruca,0.00403
+Piripiri,0.01017
+Porto,0.00132
+Porto Alegre do Piauí,0.00044
+Prata do Piauí,0.00031
+Queimada Nova,0.00281
+Redenção do Gurguéia,0.00109
+Regeneração,0.00294
+Riacho Frio,0.00051
+Ribeira do Piauí,0.00241
+Ribeiro Gonçalves,0.00772
+Rio Grande do Piauí,0.00068
+Santa Cruz do Piauí,0.00068
+Santa Cruz dos Milagres,0.0005
+Santa Filomena,0.00684
+Santa Luz,0.00069
+Santana do Piauí,0.00045
+Santa Rosa do Piauí,0.00056
+Santo Antônio de Lisboa,0.0008
+Santo Antônio dos Milagres,0.0002
+Santo Inácio do Piauí,0.00045
+São Braz do Piauí,0.00044
+São Félix do Piauí,0.00036
+São Francisco de Assis do Piauí,0.00062
+São Francisco do Piauí,0.00065
+São Gonçalo do Gurguéia,0.00061
+São Gonçalo do Piauí,0.00063
+São João da Canabrava,0.00055
+São João da Fronteira,0.00068
+São João da Serra,0.00066
+São João da Varjota,0.00041
+São João do Arraial,0.00076
+São João do Piauí,0.00474
+São José do Divino,0.00071
+São José do Peixe,0.00048
+São José do Piauí,0.00076
+São Julião,0.00066
+São Lourenço do Piauí,0.0005
+São Luis do Piauí,0.00028
+São Miguel da Baixa Grande,0.0003
+São Miguel do Fidalgo,0.00053
+São Miguel do Tapuio,0.00181
+São Pedro do Piauí,0.0015
+São Raimundo Nonato,0.00628
+Sebastião Barros,0.00052
+Sebastião Leal,0.00283
+Sigefredo Pacheco,0.00087
+Simões,0.00482
+Simplício Mendes,0.00203
+Socorro do Piauí,0.00046
+Sussuapara,0.00085
+Tamboril do Piauí,0.00034
+Tanque do Piauí,0.00037
+Teresina,0.26514
+União,0.00466
+Uruçuí,0.03124
+Valença do Piauí,0.00321
+Várzea Branca,0.00049
+Várzea Grande,0.00045
+Vera Mendes,0.00034
+Vila Nova do Piauí,0.00041
+Wall Ferraz,0.00042
+Abaiara,0.00131
+Acarape,0.002
+Acaraú,0.01132
+Acopiara,0.00626
+Aiuaba,0.00168
+Alcântaras,0.00109
+Altaneira,0.00083
+Alto Santo,0.00258
+Amontada,0.00738
+Antonina do Norte,0.00088
+Apuiarés,0.00134
+Aquiraz,0.04277
+Aracati,0.01894
+Aracoiaba,0.00296
+Ararendá,0.00118
+Araripe,0.00231
+Aratuba,0.00168
+Arneiroz,0.00078
+Assaré,0.00263
+Aurora,0.00241
+Baixio,0.00075
+Banabuiú,0.00289
+Barbalha,0.01493
+Barreira,0.00266
+Barro,0.00269
+Barroquinha,0.00148
+Baturité,0.00497
+Beberibe,0.01175
+Bela Cruz,0.00358
+Boa Viagem,0.00598
+Brejo Santo,0.00907
+Camocim,0.00932
+Campos Sales,0.00324
+Canindé,0.01011
+Capistrano,0.00196
+Caridade,0.00207
+Cariré,0.00214
+Caririaçu,0.00281
+Cariús,0.00201
+Carnaubal,0.00185
+Cascavel,0.01192
+Catarina,0.00171
+Catunda,0.00124
+Caucaia,0.11556
+Cedro,0.00274
+Chaval,0.00122
+Choró,0.00199
+Chorozinho,0.00289
+Coreaú,0.0025
+Crateús,0.01057
+Crato,0.02077
+Croatá,0.00249
+Cruz,0.00414
+Deputado Irapuan Pinheiro,0.00112
+Ereré,0.0009
+Eusébio,0.0397
+Farias Brito,0.00224
+Forquilha,0.00338
+Fortaleza,0.81486
+Fortim,0.00347
+Frecheirinha,0.00306
+General Sampaio,0.00096
+Graça,0.00144
+Granja,0.00521
+Granjeiro,0.00057
+Groaíras,0.00123
+Guaiúba,0.00257
+Guaraciaba do Norte,0.00743
+Guaramiranga,0.00089
+Hidrolândia,0.00205
+Horizonte,0.02349
+Ibaretama,0.00147
+Ibiapina,0.00387
+Ibicuitinga,0.00139
+Icapuí,0.00456
+Icó,0.00818
+Iguatu,0.02114
+Independência,0.0034
+Ipaporanga,0.00127
+Ipaumirim,0.00159
+Ipu,0.00577
+Ipueiras,0.00364
+Iracema,0.00217
+Irauçuba,0.00244
+Itaiçaba,0.00092
+Itaitinga,0.01397
+Itapajé,0.0066
+Itapipoca,0.0198
+Itapiúna,0.00189
+Itarema,0.00851
+Itatira,0.00193
+Jaguaretama,0.00251
+Jaguaribara,0.00171
+Jaguaribe,0.00623
+Jaguaruana,0.00629
+Jardim,0.00326
+Jati,0.00144
+Jijoca de Jericoacoara,0.00612
+Juazeiro do Norte,0.05675
+Jucás,0.00354
+Lavras da Mangabeira,0.00381
+Limoeiro do Norte,0.01579
+Madalena,0.00194
+Maracanaú,0.13689
+Maranguape,0.0183
+Marco,0.00434
+Martinópole,0.00107
+Massapê,0.0042
+Mauriti,0.00574
+Meruoca,0.00143
+Milagres,0.00319
+Milhã,0.00217
+Miraíma,0.00125
+Missão Velha,0.00572
+Mombaça,0.00496
+Monsenhor Tabosa,0.00178
+Morada Nova,0.01417
+Moraújo,0.00084
+Morrinhos,0.00214
+Mucambo,0.00146
+Mulungu,0.00137
+Nova Olinda,0.00181
+Nova Russas,0.00374
+Novo Oriente,0.00314
+Ocara,0.00316
+Orós,0.00243
+Pacajus,0.0151
+Pacatuba,0.01371
+Pacoti,0.00165
+Pacujá,0.00067
+Palhano,0.0011
+Palmácia,0.00128
+Paracuru,0.00617
+Paraipaba,0.00594
+Parambu,0.0032
+Paramoti,0.00123
+Pedra Branca,0.00433
+Penaforte,0.00136
+Pentecoste,0.00538
+Pereiro,0.00622
+Pindoretama,0.00305
+Piquet Carneiro,0.0018
+Pires Ferreira,0.00093
+Poranga,0.00121
+Porteiras,0.00207
+Potengi,0.00123
+Potiretama,0.00107
+Quiterianópolis,0.00205
+Quixadá,0.01232
+Quixelô,0.00221
+Quixeramobim,0.01556
+Quixeré,0.00707
+Redenção,0.00455
+Reriutaba,0.00212
+Russas,0.01286
+Saboeiro,0.00188
+Salitre,0.00177
+Santana do Acaraú,0.00311
+Santana do Cariri,0.00177
+Santa Quitéria,0.00703
+São Benedito,0.00696
+São Gonçalo do Amarante,0.0958
+São João do Jaguaribe,0.0012
+São Luís do Curu,0.00148
+Senador Pompeu,0.00391
+Senador Sá,0.0007
+Sobral,0.05987
+Solonópole,0.00337
+Tabuleiro do Norte,0.005
+Tamboril,0.00313
+Tarrafas,0.00095
+Tauá,0.0079
+Tejuçuoca,0.00152
+Tianguá,0.01923
+Trairi,0.01237
+Tururu,0.00153
+Ubajara,0.00712
+Umari,0.00077
+Umirim,0.00192
+Uruburetama,0.00332
+Uruoca,0.00331
+Varjota,0.00417
+Várzea Alegre,0.00519
+Viçosa do Ceará,0.00669
+Acari,0.00158
+Açu,0.01628
+Afonso Bezerra,0.00153
+Água Nova,0.00038
+Alexandria,0.00167
+Almino Afonso,0.00056
+Alto do Rodrigues,0.00684
+Angicos,0.002
+Antônio Martins,0.00073
+Apodi,0.00787
+Areia Branca,0.01039
+Arês,0.00429
+Campo Grande,0.00117
+Baía Formosa,0.00361
+Baraúna,0.00828
+Barcelona,0.00051
+Bento Fernandes,0.00098
+Bodó,0.00318
+Bom Jesus,0.00121
+Brejinho,0.00155
+Caiçara do Norte,0.00124
+Caiçara do Rio do Vento,0.00067
+Caicó,0.01548
+Campo Redondo,0.00119
+Canguaretama,0.00672
+Caraúbas,0.00415
+Carnaúba dos Dantas,0.00131
+Carnaubais,0.00234
+Ceará-Mirim,0.01112
+Cerro Corá,0.00156
+Coronel Ezequiel,0.00058
+Coronel João Pessoa,0.00053
+Cruzeta,0.00137
+Currais Novos,0.00892
+Doutor Severiano,0.00087
+Parnamirim,0.07596
+Encanto,0.00069
+Equador,0.00091
+Espírito Santo,0.00108
+Extremoz,0.00633
+Felipe Guerra,0.00193
+Fernando Pedroza,0.00043
+Florânia,0.00134
+Francisco Dantas,0.00036
+Frutuoso Gomes,0.0005
+Galinhos,0.0018
+Goianinha,0.00606
+Governador Dix-Sept Rosado,0.00429
+Grossos,0.00176
+Guamaré,0.02266
+Ielmo Marinho,0.00156
+Ipanguaçu,0.00218
+Ipueira,0.00039
+Itajá,0.0011
+Itaú,0.00082
+Jaçanã,0.00096
+Jandaíra,0.00113
+Janduís,0.00094
+Januário Cicco,0.00094
+Japi,0.00057
+Jardim de Angicos,0.00071
+Jardim de Piranhas,0.00237
+Jardim do Seridó,0.00231
+João Câmara,0.01409
+João Dias,0.00031
+José da Penha,0.00075
+Jucurutu,0.0035
+Jundiá,0.00047
+Lagoa d'Anta,0.00079
+Lagoa de Pedras,0.0009
+Lagoa de Velhos,0.00042
+Lagoa Nova,0.00299
+Lagoa Salgada,0.00105
+Lajes,0.00184
+Lajes Pintadas,0.00057
+Lucrécia,0.00057
+Luís Gomes,0.00097
+Macaíba,0.02029
+Macau,0.01233
+Major Sales,0.00053
+Marcelino Vieira,0.00092
+Martins,0.0012
+Maxaranguape,0.0015
+Messias Targino,0.00062
+Montanhas,0.00145
+Monte Alegre,0.00301
+Monte das Gameleiras,0.00036
+Mossoró,0.08957
+Natal,0.26837
+Nísia Floresta,0.00527
+Nova Cruz,0.00622
+Olho d'Água do Borges,0.00053
+Ouro Branco,0.00068
+Paraná,0.00049
+Paraú,0.00061
+Parazinho,0.00673
+Parelhas,0.00409
+Rio do Fogo,0.00206
+Passa e Fica,0.00169
+Passagem,0.00051
+Patu,0.00179
+Santa Maria,0.00087
+Pau dos Ferros,0.00787
+Pedra Grande,0.00325
+Pedra Preta,0.0004
+Pedro Avelino,0.00089
+Pedro Velho,0.00193
+Pendências,0.00841
+Pilões,0.00046
+Poço Branco,0.00146
+Portalegre,0.00088
+Porto do Mangue,0.00166
+Serra Caiada,0.00121
+Pureza,0.00188
+Rafael Fernandes,0.00059
+Rafael Godeiro,0.00048
+Riacho da Cruz,0.00042
+Riacho de Santana,0.00048
+Riachuelo,0.00213
+Rodolfo Fernandes,0.00066
+Tibau,0.00128
+Ruy Barbosa,0.00141
+Santa Cruz,0.00687
+Santana do Matos,0.00163
+Santana do Seridó,0.0004
+Santo Antônio,0.00336
+São Bento do Norte,0.00609
+São Bento do Trairí,0.00051
+São Fernando,0.00071
+São Francisco do Oeste,0.0006
+São Gonçalo do Amarante,0.02114
+São João do Sabugi,0.00094
+São José de Mipibu,0.01155
+São José do Campestre,0.00139
+São José do Seridó,0.00093
+São Miguel,0.00355
+São Miguel do Gostoso,0.00547
+São Paulo do Potengi,0.00257
+São Pedro,0.00062
+São Rafael,0.00098
+São Tomé,0.00124
+São Vicente,0.00085
+Senador Elói de Souza,0.00067
+Senador Georgino Avelino,0.00129
+Serra de São Bento,0.00064
+Serra do Mel,0.00953
+Serra Negra do Norte,0.00132
+Serrinha,0.0008
+Serrinha dos Pintos,0.00055
+Severiano Melo,0.0007
+Sítio Novo,0.0006
+Taboleiro Grande,0.00036
+Taipu,0.00172
+Tangará,0.00224
+Tenente Ananias,0.00126
+Tenente Laurentino Cruz,0.00119
+Tibau do Sul,0.00461
+Timbaúba dos Batistas,0.00048
+Touros,0.00904
+Triunfo Potiguar,0.00051
+Umarizal,0.00168
+Upanema,0.00238
+Várzea,0.00063
+Venha-Ver,0.00048
+Vera Cruz,0.00148
+Viçosa,0.00026
+Vila Flor,0.00049
+Água Branca,0.00102
+Aguiar,0.00067
+Alagoa Grande,0.00333
+Alagoa Nova,0.00372
+Alagoinha,0.00154
+Alcantil,0.00061
+Algodão de Jandaíra,0.00032
+Alhandra,0.03772
+São João do Rio do Peixe,0.0025
+Amparo,0.00033
+Aparecida,0.00117
+Araçagi,0.00206
+Arara,0.00125
+Araruna,0.00227
+Areia,0.00285
+Areia de Baraúnas,0.00029
+Areial,0.00069
+Aroeiras,0.00186
+Assunção,0.00054
+Baía da Traição,0.0012
+Bananeiras,0.00309
+Baraúna,0.00055
+Barra de Santana,0.00101
+Barra de Santa Rosa,0.00167
+Barra de São Miguel,0.00094
+Bayeux,0.01517
+Belém,0.00242
+Belém do Brejo do Cruz,0.00087
+Bernardino Batista,0.00044
+Boa Ventura,0.00057
+Boa Vista,0.00229
+Bom Jesus,0.00036
+Bom Sucesso,0.0006
+Bonito de Santa Fé,0.00107
+Boqueirão,0.00285
+Igaracy,0.00067
+Borborema,0.00077
+Brejo do Cruz,0.00163
+Brejo dos Santos,0.00071
+Caaporã,0.00518
+Cabaceiras,0.00129
+Cabedelo,0.03498
+Cachoeira dos Índios,0.00138
+Cacimba de Areia,0.00043
+Cacimba de Dentro,0.00171
+Cacimbas,0.00074
+Caiçara,0.00073
+Cajazeiras,0.01367
+Cajazeirinhas,0.00047
+Caldas Brandão,0.00083
+Camalaú,0.00079
+Campina Grande,0.1151
+Capim,0.00084
+Caraúbas,0.00047
+Carrapateira,0.00034
+Casserengue,0.00078
+Catingueira,0.00059
+Catolé do Rocha,0.00561
+Caturité,0.00068
+Conceição,0.00232
+Condado,0.001
+Conde,0.01428
+Congo,0.00068
+Coremas,0.00277
+Coxixola,0.00027
+Cruz do Espírito Santo,0.00212
+Cubati,0.00085
+Cuité,0.00245
+Cuitegi,0.00074
+Cuité de Mamanguape,0.00082
+Curral de Cima,0.00062
+Curral Velho,0.0003
+Damião,0.00056
+Desterro,0.00081
+Vista Serrana,0.00044
+Diamante,0.00066
+Dona Inês,0.00104
+Duas Estradas,0.0005
+Emas,0.00046
+Esperança,0.00563
+Fagundes,0.00117
+Frei Martinho,0.00034
+Gado Bravo,0.00085
+Guarabira,0.01986
+Gurinhém,0.00168
+Gurjão,0.00043
+Ibiara,0.00064
+Imaculada,0.00109
+Ingá,0.00216
+Itabaiana,0.00373
+Itaporanga,0.00379
+Itapororoca,0.00229
+Itatuba,0.00172
+Jacaraú,0.00183
+Jericó,0.00085
+João Pessoa,0.24683
+Juarez Távora,0.00081
+Juazeirinho,0.00233
+Junco do Seridó,0.00107
+Juripiranga,0.0013
+Juru,0.00097
+Lagoa,0.00057
+Lagoa de Dentro,0.00093
+Lagoa Seca,0.00344
+Lastro,0.00033
+Livramento,0.00078
+Logradouro,0.00054
+Lucena,0.00248
+Mãe d'Água,0.00043
+Malta,0.00088
+Mamanguape,0.00893
+Manaíra,0.00113
+Marcação,0.00106
+Mari,0.00268
+Marizópolis,0.00091
+Massaranduba,0.00145
+Mataraca,0.00267
+Matinhas,0.0006
+Mato Grosso,0.00035
+Maturéia,0.00069
+Mogeiro,0.00182
+Montadas,0.00061
+Monte Horebe,0.00053
+Monteiro,0.00705
+Mulungu,0.00109
+Natuba,0.00106
+Nazarezinho,0.00073
+Nova Floresta,0.00111
+Nova Olinda,0.00064
+Nova Palmeira,0.00054
+Olho d'Água,0.00069
+Olivedos,0.00048
+Ouro Velho,0.00042
+Parari,0.00024
+Passagem,0.00032
+Patos,0.02212
+Paulista,0.00174
+Pedra Branca,0.00042
+Pedra Lavrada,0.00089
+Pedras de Fogo,0.00617
+Piancó,0.00229
+Picuí,0.00237
+Pilar,0.00135
+Pilões,0.00106
+Pilõezinhos,0.00057
+Pirpirituba,0.00106
+Pitimbu,0.00477
+Pocinhos,0.00316
+Poço Dantas,0.00045
+Poço de José de Moura,0.00052
+Pombal,0.00516
+Prata,0.00072
+Princesa Isabel,0.00296
+Puxinanã,0.00153
+Queimadas,0.00672
+Quixaba,0.0003
+Remígio,0.00201
+Pedro Régis,0.00063
+Riachão,0.0004
+Riachão do Bacamarte,0.00056
+Riachão do Poço,0.00062
+Riacho de Santo Antônio,0.00034
+Riacho dos Cavalos,0.00103
+Rio Tinto,0.00357
+Salgadinho,0.00037
+Salgado de São Félix,0.00143
+Santa Cecília,0.00073
+Santa Cruz,0.00069
+Santa Helena,0.00069
+Santa Inês,0.00041
+Santa Luzia,0.00413
+Santana de Mangueira,0.00057
+Santana dos Garrotes,0.00075
+Joca Claudino,0.00037
+Santa Rita,0.02904
+Santa Teresinha,0.00063
+Santo André,0.00033
+São Bento,0.00629
+São Bentinho,0.00061
+São Domingos do Cariri,0.00032
+São Domingos,0.0004
+São Francisco,0.00043
+São João do Cariri,0.00061
+São João do Tigre,0.00045
+São José da Lagoa Tapada,0.0008
+São José de Caiana,0.00062
+São José de Espinharas,0.00061
+São José dos Ramos,0.00096
+São José de Piranhas,0.00256
+São José de Princesa,0.00038
+São José do Bonfim,0.00036
+São José do Brejo do Cruz,0.00032
+São José do Sabugi,0.00139
+São José dos Cordeiros,0.00041
+São Mamede,0.00091
+São Miguel de Taipu,0.00092
+São Sebastião de Lagoa de Roça,0.00117
+São Sebastião do Umbuzeiro,0.00045
+Sapé,0.0075
+São Vicente do Seridó,0.001
+Serra Branca,0.00164
+Serra da Raiz,0.00041
+Serra Grande,0.00037
+Serra Redonda,0.00079
+Serraria,0.00075
+Sertãozinho,0.00061
+Sobrado,0.00125
+Solânea,0.00392
+Soledade,0.00226
+Sossêgo,0.00043
+Sousa,0.01463
+Sumé,0.00223
+Tacima,0.00102
+Taperoá,0.00154
+Tavares,0.00155
+Teixeira,0.00188
+Tenório,0.00038
+Triunfo,0.00097
+Uiraúna,0.00214
+Umbuzeiro,0.00101
+Várzea,0.00042
+Vieirópolis,0.00058
+Zabelê,0.0003
+Abreu e Lima,0.01913
+Afogados da Ingazeira,0.00601
+Afrânio,0.00233
+Agrestina,0.00392
+Água Preta,0.00288
+Águas Belas,0.00445
+Alagoinha,0.00161
+Aliança,0.00459
+Altinho,0.00247
+Amaraji,0.00327
+Angelim,0.00158
+Araçoiaba,0.0018
+Araripina,0.01412
+Arcoverde,0.01349
+Barra de Guabiraba,0.00163
+Barreiros,0.00559
+Belém de Maria,0.0011
+Belém do São Francisco,0.00406
+Belo Jardim,0.03068
+Betânia,0.00117
+Bezerros,0.01068
+Bodocó,0.00352
+Bom Conselho,0.00714
+Bom Jardim,0.00407
+Bonito,0.00598
+Brejão,0.00204
+Brejinho,0.00093
+Brejo da Madre de Deus,0.00512
+Buenos Aires,0.00148
+Buíque,0.00609
+Cabo de Santo Agostinho,0.15209
+Cabrobó,0.00489
+Cachoeirinha,0.00282
+Caetés,0.0047
+Calçado,0.00128
+Calumbi,0.00056
+Camaragibe,0.02474
+Camocim de São Félix,0.00201
+Camutanga,0.00317
+Canhotinho,0.00281
+Capoeiras,0.00271
+Carnaíba,0.00215
+Carnaubeira da Penha,0.00093
+Carpina,0.01936
+Caruaru,0.09613
+Casinhas,0.00113
+Catende,0.004
+Cedro,0.00139
+Chã de Alegria,0.00187
+Chã Grande,0.00279
+Condado,0.00278
+Correntes,0.00213
+Cortês,0.00135
+Cumaru,0.00121
+Cupira,0.00315
+Custódia,0.00659
+Dormentes,0.00273
+Escada,0.0145
+Exu,0.00361
+Feira Nova,0.00275
+Fernando de Noronha,0.00255
+Ferreiros,0.00147
+Flores,0.00214
+Floresta,0.00494
+Frei Miguelinho,0.00146
+Gameleira,0.00304
+Garanhuns,0.03414
+Glória do Goitá,0.00615
+Goiana,0.11832
+Granito,0.00087
+Gravatá,0.01509
+Iati,0.00217
+Ibimirim,0.00366
+Ibirajuba,0.00095
+Igarassu,0.03852
+Iguaracy,0.00125
+Inajá,0.00218
+Ingazeira,0.00056
+Ipojuca,0.16566
+Ipubi,0.00378
+Itacuruba,0.00079
+Itaíba,0.00314
+Ilha de Itamaracá,0.00332
+Itambé,0.0058
+Itapetim,0.00155
+Itapissuma,0.02645
+Itaquitinga,0.00178
+Jaboatão dos Guararapes,0.17902
+Jaqueira,0.00124
+Jataúba,0.00172
+Jatobá,0.00171
+João Alfredo,0.00351
+Joaquim Nabuco,0.00201
+Jucati,0.00143
+Jupi,0.00238
+Jurema,0.00147
+Lagoa do Carro,0.00334
+Lagoa de Itaenga,0.00536
+Lagoa do Ouro,0.00154
+Lagoa dos Gatos,0.0015
+Lagoa Grande,0.00507
+Lajedo,0.0065
+Limoeiro,0.0093
+Macaparana,0.00315
+Machados,0.0024
+Manari,0.00154
+Maraial,0.00103
+Mirandiba,0.00181
+Moreno,0.0099
+Nazaré da Mata,0.00764
+Olinda,0.06423
+Orobó,0.00443
+Orocó,0.00207
+Ouricuri,0.00866
+Palmares,0.01025
+Palmeirina,0.00089
+Panelas,0.00255
+Paranatama,0.00317
+Parnamirim,0.00237
+Passira,0.00294
+Paudalho,0.01028
+Paulista,0.06205
+Pedra,0.0034
+Pesqueira,0.00965
+Petrolândia,0.0186
+Petrolina,0.0887
+Poção,0.00113
+Pombos,0.00591
+Primavera,0.00324
+Quipapá,0.00213
+Quixaba,0.00074
+Recife,0.60996
+Riacho das Almas,0.00289
+Ribeirão,0.0064
+Rio Formoso,0.00422
+Sairé,0.00196
+Salgadinho,0.0009
+Salgueiro,0.01112
+Saloá,0.0019
+Sanharó,0.00275
+Santa Cruz,0.00148
+Santa Cruz da Baixa Verde,0.00126
+Santa Cruz do Capibaribe,0.02137
+Santa Filomena,0.00124
+Santa Maria da Boa Vista,0.00626
+Santa Maria do Cambucá,0.00136
+Santa Terezinha,0.00127
+São Benedito do Sul,0.0013
+São Bento do Una,0.01649
+São Caitano,0.00497
+São João,0.00433
+São Joaquim do Monte,0.00206
+São José da Coroa Grande,0.00323
+São José do Belmonte,0.00379
+São José do Egito,0.00489
+São Lourenço da Mata,0.01603
+São Vicente Férrer,0.00232
+Serra Talhada,0.01879
+Serrita,0.00179
+Sertânia,0.00408
+Sirinhaém,0.00802
+Moreilândia,0.00101
+Solidão,0.00063
+Surubim,0.01016
+Tabira,0.00349
+Tacaimbó,0.00166
+Tacaratu,0.0028
+Tamandaré,0.00439
+Taquaritinga do Norte,0.00371
+Terezinha,0.00084
+Terra Nova,0.00106
+Timbaúba,0.00828
+Toritama,0.00848
+Tracunhaém,0.00196
+Trindade,0.00465
+Triunfo,0.00175
+Tupanatinga,0.00252
+Tuparetama,0.00099
+Venturosa,0.00274
+Verdejante,0.0009
+Vertente do Lério,0.00082
+Vertentes,0.00216
+Vicência,0.00576
+Vitória de Santo Antão,0.05051
+Xexéu,0.00157
+Água Branca,0.00225
+Anadia,0.00278
+Arapiraca,0.06564
+Atalaia,0.01665
+Barra de Santo Antônio,0.00291
+Barra de São Miguel,0.00265
+Batalha,0.00255
+Belém,0.00212
+Belo Monte,0.00168
+Boca da Mata,0.00561
+Branquinha,0.0086
+Cacimbinhas,0.00156
+Cajueiro,0.00231
+Campestre,0.00097
+Campo Alegre,0.00815
+Campo Grande,0.00118
+Canapi,0.00185
+Capela,0.00275
+Carneiros,0.00101
+Chã Preta,0.00195
+Coité do Nóia,0.00235
+Colônia Leopoldina,0.00441
+Coqueiro Seco,0.00107
+Coruripe,0.01978
+Craíbas,0.00533
+Delmiro Gouveia,0.00748
+Dois Riachos,0.00117
+Estrela de Alagoas,0.00171
+Feira Grande,0.00474
+Feliz Deserto,0.00182
+Flexeiras,0.0033
+Girau do Ponciano,0.0061
+Ibateguara,0.00218
+Igaci,0.00346
+Igreja Nova,0.00634
+Inhapi,0.00194
+Jacaré dos Homens,0.00083
+Jacuípe,0.00216
+Japaratinga,0.0028
+Jaramataia,0.00086
+Jequiá da Praia,0.00424
+Joaquim Gomes,0.00578
+Jundiá,0.00061
+Junqueiro,0.0061
+Lagoa da Canoa,0.00303
+Limoeiro de Anadia,0.0076
+Maceió,0.30497
+Major Isidoro,0.00314
+Maragogi,0.01241
+Maravilha,0.00101
+Marechal Deodoro,0.03783
+Maribondo,0.00209
+Mar Vermelho,0.00057
+Mata Grande,0.00393
+Matriz de Camaragibe,0.00428
+Messias,0.00245
+Minador do Negrão,0.00083
+Monteirópolis,0.0009
+Murici,0.00653
+Novo Lino,0.00208
+Olho d'Água das Flores,0.00302
+Olho d'Água do Casado,0.00103
+Olho d'Água Grande,0.00077
+Olivença,0.00121
+Ouro Branco,0.00123
+Palestina,0.00051
+Palmeira dos Índios,0.01311
+Pão de Açúcar,0.00296
+Pariconha,0.00161
+Paripueira,0.00263
+Passo de Camaragibe,0.00374
+Paulo Jacinto,0.00122
+Penedo,0.01092
+Piaçabuçu,0.00509
+Pilar,0.0075
+Pindoba,0.00066
+Piranhas,0.00382
+Poço das Trincheiras,0.00139
+Porto Calvo,0.00458
+Porto de Pedras,0.0037
+Porto Real do Colégio,0.00298
+Quebrangulo,0.0021
+Rio Largo,0.01579
+Roteiro,0.00226
+Santa Luzia do Norte,0.00308
+Santana do Ipanema,0.00717
+Santana do Mundaú,0.01563
+São Brás,0.00143
+São José da Laje,0.00652
+São José da Tapera,0.00369
+São Luís do Quitunde,0.01047
+São Miguel dos Campos,0.01523
+São Miguel dos Milagres,0.0027
+São Sebastião,0.00953
+Satuba,0.0029
+Senador Rui Palmeira,0.00134
+Tanque d'Arca,0.00102
+Taquarana,0.00567
+Teotônio Vilela,0.01506
+Traipu,0.00329
+União dos Palmares,0.01571
+Viçosa,0.00659
+Amparo do São Francisco,0.00042
+Aquidabã,0.00319
+Aracaju,0.20423
+Arauá,0.00155
+Areia Branca,0.0028
+Barra dos Coqueiros,0.02865
+Boquim,0.0037
+Brejo Grande,0.00106
+Campo do Brito,0.00264
+Canhoba,0.00094
+Canindé de São Francisco,0.03213
+Capela,0.00428
+Carira,0.00421
+Carmópolis,0.00469
+Cedro de São João,0.00071
+Cristinápolis,0.00278
+Cumbe,0.00077
+Divina Pastora,0.00209
+Estância,0.0236
+Feira Nova,0.00128
+Frei Paulo,0.0036
+Gararu,0.00199
+General Maynard,0.00048
+Graccho Cardoso,0.00112
+Ilha das Flores,0.00113
+Indiaroba,0.00255
+Itabaiana,0.02456
+Itabaianinha,0.00595
+Itabi,0.0009
+Itaporanga d'Ajuda,0.00977
+Japaratuba,0.00586
+Japoatã,0.00234
+Lagarto,0.01995
+Laranjeiras,0.01289
+Macambira,0.00099
+Malhada dos Bois,0.00059
+Malhador,0.00192
+Maruim,0.00498
+Moita Bonita,0.00229
+Monte Alegre de Sergipe,0.00243
+Muribeca,0.00107
+Neópolis,0.00367
+Nossa Senhora Aparecida,0.00122
+Nossa Senhora da Glória,0.00877
+Nossa Senhora das Dores,0.00461
+Nossa Senhora de Lourdes,0.00101
+Nossa Senhora do Socorro,0.03587
+Pacatuba,0.00263
+Pedra Mole,0.00053
+Pedrinhas,0.0011
+Pinhão,0.00102
+Pirambu,0.00153
+Poço Redondo,0.00462
+Poço Verde,0.00358
+Porto da Folha,0.00407
+Propriá,0.00615
+Riachão do Dantas,0.00365
+Riachuelo,0.00247
+Ribeirópolis,0.00377
+Rosário do Catete,0.0052
+Salgado,0.00241
+Santa Luzia do Itanhy,0.00214
+Santana do São Francisco,0.00118
+Santa Rosa de Lima,0.00061
+Santo Amaro das Brotas,0.00186
+São Cristóvão,0.01145
+São Domingos,0.0015
+São Francisco,0.00062
+São Miguel do Aleixo,0.00055
+Simão Dias,0.00877
+Siriri,0.00196
+Telha,0.00049
+Tobias Barreto,0.00728
+Tomar do Geru,0.00163
+Umbaúba,0.00446
+Abaíra,0.00078
+Abaré,0.00231
+Acajutiba,0.0016
+Adustina,0.00267
+Água Fria,0.00176
+Érico Cardoso,0.00087
+Aiquara,0.0006
+Alagoinhas,0.0503
+Alcobaça,0.00386
+Almadina,0.0007
+Amargosa,0.00515
+Amélia Rodrigues,0.00486
+América Dourada,0.00186
+Anagé,0.0025
+Andaraí,0.00149
+Andorinha,0.00248
+Angical,0.00211
+Anguera,0.00087
+Antas,0.00178
+Antônio Cardoso,0.00138
+Antônio Gonçalves,0.00092
+Aporá,0.00165
+Apuarema,0.00082
+Aracatu,0.00162
+Araçás,0.00332
+Araci,0.00545
+Aramari,0.00115
+Arataca,0.00113
+Aratuípe,0.00089
+Aurelino Leal,0.00152
+Baianópolis,0.00293
+Baixa Grande,0.00216
+Banzaê,0.00126
+Barra,0.00478
+Barra da Estiva,0.00419
+Barra do Choça,0.00636
+Barra do Mendes,0.00129
+Barra do Rocha,0.00086
+Barreiras,0.07774
+Barro Alto,0.00125
+Barrocas,0.00384
+Barro Preto,0.00089
+Belmonte,0.00415
+Belo Campo,0.00188
+Biritinga,0.00161
+Boa Nova,0.00124
+Boa Vista do Tupim,0.00172
+Bom Jesus da Lapa,0.01507
+Bom Jesus da Serra,0.00078
+Boninal,0.00131
+Bonito,0.003
+Boquira,0.0021
+Botuporã,0.00122
+Brejões,0.0016
+Brejolândia,0.0014
+Brotas de Macaúbas,0.00107
+Brumado,0.01979
+Buerarema,0.00232
+Buritirama,0.00172
+Caatiba,0.00086
+Cabaceiras do Paraguaçu,0.00157
+Cachoeira,0.00532
+Caculé,0.00404
+Caém,0.00102
+Caetanos,0.00114
+Caetité,0.01219
+Cafarnaum,0.00241
+Cairu,0.01671
+Caldeirão Grande,0.00113
+Camacan,0.00393
+Camaçari,0.37695
+Camamu,0.0052
+Campo Alegre de Lourdes,0.00328
+Campo Formoso,0.023
+Canápolis,0.00094
+Canarana,0.00287
+Canavieiras,0.00439
+Candeal,0.00075
+Candeias,0.07567
+Candiba,0.00156
+Cândido Sales,0.00272
+Cansanção,0.00391
+Canudos,0.0017
+Capela do Alto Alegre,0.00144
+Capim Grosso,0.00643
+Caraíbas,0.00096
+Caravelas,0.00397
+Cardeal da Silva,0.00131
+Carinhanha,0.0032
+Casa Nova,0.00971
+Castro Alves,0.00352
+Catolândia,0.0009
+Catu,0.00772
+Caturama,0.00087
+Central,0.00171
+Chorrochó,0.00117
+Cícero Dantas,0.00444
+Cipó,0.00172
+Coaraci,0.00212
+Cocos,0.00621
+Conceição da Feira,0.00417
+Conceição do Almeida,0.00222
+Conceição do Coité,0.00982
+Conceição do Jacuípe,0.03064
+Conde,0.00321
+Condeúba,0.0019
+Contendas do Sincorá,0.00056
+Coração de Maria,0.00251
+Cordeiros,0.00079
+Coribe,0.00188
+Coronel João Sá,0.00194
+Correntina,0.0364
+Cotegipe,0.0019
+Cravolândia,0.00051
+Crisópolis,0.00229
+Cristópolis,0.00175
+Cruz das Almas,0.01157
+Curaçá,0.00394
+Dário Meira,0.0014
+Dias d'Ávila,0.03385
+Dom Basílio,0.00158
+Dom Macedo Costa,0.00048
+Elísio Medrado,0.00085
+Encruzilhada,0.00284
+Entre Rios,0.00756
+Esplanada,0.00812
+Euclides da Cunha,0.00883
+Eunápolis,0.03554
+Fátima,0.00311
+Feira da Mata,0.0007
+Feira de Santana,0.19177
+Filadélfia,0.00155
+Firmino Alves,0.00079
+Floresta Azul,0.00113
+Formosa do Rio Preto,0.05114
+Gandu,0.00512
+Gavião,0.00055
+Gentio do Ouro,0.00148
+Glória,0.00282
+Gongogi,0.00085
+Governador Mangabeira,0.00246
+Guajeru,0.00076
+Guanambi,0.01836
+Guaratinga,0.0031
+Heliópolis,0.00156
+Iaçu,0.00263
+Ibiassucê,0.0011
+Ibicaraí,0.00229
+Ibicoara,0.00492
+Ibicuí,0.00218
+Ibipeba,0.00197
+Ibipitanga,0.0013
+Ibiquera,0.00041
+Ibirapitanga,0.00317
+Ibirapuã,0.005
+Ibirataia,0.0023
+Ibitiara,0.00126
+Ibititá,0.00173
+Ibotirama,0.00461
+Ichu,0.00063
+Igaporã,0.0022
+Igrapiúna,0.00234
+Iguaí,0.00273
+Ilhéus,0.0573
+Inhambupe,0.00694
+Ipecaetá,0.00117
+Ipiaú,0.00631
+Ipirá,0.00738
+Ipupiara,0.00112
+Irajuba,0.00087
+Iramaia,0.00114
+Iraquara,0.00996
+Irará,0.00318
+Irecê,0.017
+Itabela,0.00571
+Itaberaba,0.01106
+Itabuna,0.04661
+Itacaré,0.00473
+Itaeté,0.00141
+Itagi,0.00143
+Itagibá,0.01224
+Itagimirim,0.00141
+Itaguaçu da Bahia,0.00169
+Itaju do Colônia,0.00099
+Itajuípe,0.00284
+Itamaraju,0.01233
+Itamari,0.00115
+Itambé,0.00327
+Itanagra,0.00091
+Itanhém,0.00326
+Itaparica,0.00274
+Itapé,0.00118
+Itapebi,0.00372
+Itapetinga,0.01628
+Itapicuru,0.00487
+Itapitanga,0.00105
+Itaquara,0.00112
+Itarantim,0.00367
+Itatim,0.00477
+Itiruçu,0.00134
+Itiúba,0.0039
+Itororó,0.00279
+Ituaçu,0.00285
+Ituberá,0.00408
+Iuiu,0.00148
+Jaborandi,0.01492
+Jacaraci,0.00136
+Jacobina,0.02073
+Jaguaquara,0.00753
+Jaguarari,0.0133
+Jaguaripe,0.00229
+Jandaíra,0.00187
+Jequié,0.03525
+Jeremoabo,0.00556
+Jiquiriçá,0.00167
+Jitaúna,0.00195
+João Dourado,0.0033
+Juazeiro,0.05749
+Jucuruçu,0.00142
+Jussara,0.00126
+Jussari,0.00079
+Jussiape,0.00076
+Lafaiete Coutinho,0.00061
+Lagoa Real,0.00133
+Laje,0.00324
+Lajedão,0.00125
+Lajedinho,0.00068
+Lajedo do Tabocal,0.00087
+Lamarão,0.00072
+Lapão,0.00336
+Lauro de Freitas,0.08125
+Lençóis,0.00188
+Licínio de Almeida,0.00175
+Livramento de Nossa Senhora,0.00639
+Luís Eduardo Magalhães,0.09788
+Macajuba,0.00101
+Macarani,0.00252
+Macaúbas,0.00479
+Macururé,0.00075
+Madre de Deus,0.00572
+Maetinga,0.00056
+Maiquinique,0.00227
+Mairi,0.00176
+Malhada,0.00209
+Malhada de Pedras,0.00089
+Manoel Vitorino,0.00155
+Mansidão,0.00104
+Maracás,0.00728
+Maragogipe,0.00447
+Maraú,0.00379
+Marcionílio Souza,0.00105
+Mascote,0.00179
+Mata de São João,0.01474
+Matina,0.00102
+Medeiros Neto,0.00571
+Miguel Calmon,0.00303
+Milagres,0.0016
+Mirangaba,0.00157
+Mirante,0.00087
+Monte Santo,0.0051
+Morpará,0.00087
+Morro do Chapéu,0.00695
+Mortugaba,0.00119
+Mucugê,0.0086
+Mucuri,0.02455
+Mulungu do Morro,0.00236
+Mundo Novo,0.00221
+Muniz Ferreira,0.00074
+Muquém do São Francisco,0.00233
+Muritiba,0.00307
+Mutuípe,0.00523
+Nazaré,0.00367
+Nilo Peçanha,0.00206
+Nordestina,0.00178
+Nova Canaã,0.00193
+Nova Fátima,0.00106
+Nova Ibiá,0.00113
+Nova Itarana,0.00081
+Nova Redenção,0.00084
+Nova Soure,0.00302
+Nova Viçosa,0.00639
+Novo Horizonte,0.00117
+Novo Triunfo,0.00115
+Olindina,0.00269
+Oliveira dos Brejinhos,0.00324
+Ouriçangas,0.00089
+Ourolândia,0.00311
+Palmas de Monte Alto,0.00264
+Palmeiras,0.0012
+Paramirim,0.00301
+Paratinga,0.00289
+Paripiranga,0.00504
+Pau Brasil,0.00117
+Paulo Afonso,0.044
+Pé de Serra,0.00146
+Pedrão,0.00058
+Pedro Alexandre,0.00132
+Piatã,0.00269
+Pilão Arcado,0.00323
+Pindaí,0.00329
+Pindobaçu,0.00174
+Pintadas,0.00121
+Piraí do Norte,0.0013
+Piripá,0.00088
+Piritiba,0.00209
+Planaltino,0.00088
+Planalto,0.00344
+Poções,0.00636
+Pojuca,0.02046
+Ponto Novo,0.00158
+Porto Seguro,0.04181
+Potiraguá,0.00128
+Prado,0.00693
+Presidente Dutra,0.00147
+Presidente Jânio Quadros,0.00111
+Presidente Tancredo Neves,0.00375
+Queimadas,0.00286
+Quijingue,0.00253
+Quixabeira,0.00086
+Rafael Jambeiro,0.0044
+Remanso,0.0054
+Retirolândia,0.00166
+Riachão das Neves,0.01708
+Riachão do Jacuípe,0.00455
+Riacho de Santana,0.00352
+Ribeira do Amparo,0.00213
+Ribeira do Pombal,0.00795
+Ribeirão do Largo,0.00123
+Rio de Contas,0.00173
+Rio do Antônio,0.00128
+Rio do Pires,0.00111
+Rio Real,0.01145
+Rodelas,0.00159
+Ruy Barbosa,0.00436
+Salinas da Margarida,0.00223
+Salvador,0.69855
+Santa Bárbara,0.002
+Santa Brígida,0.00132
+Santa Cruz Cabrália,0.00609
+Santa Cruz da Vitória,0.00079
+Santa Inês,0.00085
+Santaluz,0.0058
+Santa Luzia,0.00138
+Santa Maria da Vitória,0.00666
+Santana,0.00382
+Santanópolis,0.00076
+Santa Rita de Cássia,0.00317
+Santa Terezinha,0.00113
+Santo Amaro,0.01263
+Santo Antônio de Jesus,0.02719
+Santo Estêvão,0.01014
+São Desidério,0.06486
+São Domingos,0.00098
+São Félix,0.00192
+São Félix do Coribe,0.00265
+São Felipe,0.00236
+São Francisco do Conde,0.14521
+São Gabriel,0.0017
+São Gonçalo dos Campos,0.01282
+São José da Vitória,0.00074
+São José do Jacuípe,0.00141
+São Miguel das Matas,0.00196
+São Sebastião do Passé,0.00943
+Sapeaçu,0.00237
+Sátiro Dias,0.00286
+Saubara,0.00162
+Saúde,0.00114
+Seabra,0.00694
+Sebastião Laranjeiras,0.00119
+Senhor do Bonfim,0.01108
+Serra do Ramalho,0.00457
+Sento Sé,0.01903
+Serra Dourada,0.00222
+Serra Preta,0.00153
+Serrinha,0.01206
+Serrolândia,0.00131
+Simões Filho,0.07029
+Sítio do Mato,0.00133
+Sítio do Quinto,0.00115
+Sobradinho,0.00936
+Souto Soares,0.00151
+Tabocas do Brejo Velho,0.00298
+Tanhaçu,0.00281
+Tanque Novo,0.00203
+Tanquinho,0.00074
+Taperoá,0.00246
+Tapiramutá,0.00165
+Teixeira de Freitas,0.03191
+Teodoro Sampaio,0.00197
+Teofilândia,0.00212
+Teolândia,0.00241
+Terra Nova,0.00189
+Tremedal,0.00148
+Tucano,0.00605
+Uauá,0.00261
+Ubaíra,0.00254
+Ubaitaba,0.00272
+Ubatã,0.00248
+Uibaí,0.00195
+Umburanas,0.00292
+Una,0.00374
+Urandi,0.00222
+Uruçuca,0.00329
+Utinga,0.00206
+Valença,0.01931
+Valente,0.00298
+Várzea da Roça,0.00124
+Várzea do Poço,0.00129
+Várzea Nova,0.00257
+Varzedo,0.0015
+Vera Cruz,0.00669
+Vereda,0.00103
+Vitória da Conquista,0.09116
+Wagner,0.00099
+Wanderley,0.00186
+Wenceslau Guimarães,0.00368
+Xique-Xique,0.00512
+Abadia dos Dourados,0.00196
+Abaeté,0.00601
+Abre Campo,0.00291
+Acaiaca,0.00072
+Açucena,0.00184
+Água Boa,0.00213
+Água Comprida,0.00255
+Aguanil,0.00105
+Águas Formosas,0.00319
+Águas Vermelhas,0.00263
+Aimorés,0.00708
+Aiuruoca,0.00143
+Alagoa,0.00053
+Albertina,0.00171
+Além Paraíba,0.01078
+Alfenas,0.03868
+Alfredo Vasconcelos,0.00167
+Almenara,0.00749
+Alpercata,0.00105
+Alpinópolis,0.00582
+Alterosa,0.00329
+Alto Caparaó,0.00108
+Alto Rio Doce,0.002
+Alvarenga,0.00061
+Alvinópolis,0.00378
+Alvorada de Minas,0.00072
+Amparo do Serra,0.00062
+Andradas,0.01314
+Cachoeira de Pajeú,0.00139
+Andrelândia,0.00324
+Angelândia,0.0016
+Antônio Carlos,0.00268
+Antônio Dias,0.00993
+Antônio Prado de Minas,0.00032
+Araçaí,0.00067
+Aracitaba,0.00035
+Araçuaí,0.00577
+Araguari,0.06478
+Arantina,0.00098
+Araponga,0.00136
+Araporã,0.01437
+Arapuá,0.00192
+Araújos,0.00526
+Araxá,0.09932
+Arceburgo,0.00385
+Arcos,0.02604
+Areado,0.00343
+Argirita,0.00044
+Aricanduva,0.00074
+Arinos,0.00354
+Astolfo Dutra,0.00324
+Ataléia,0.00221
+Augusto de Lima,0.00099
+Baependi,0.00423
+Baldim,0.00223
+Bambuí,0.00866
+Bandeira,0.00066
+Bandeira do Sul,0.00096
+Barão de Cocais,0.02706
+Barão do Monte Alto,0.0007
+Barbacena,0.03909
+Barra Longa,0.00091
+Barroso,0.00676
+Bela Vista de Minas,0.00631
+Belmiro Braga,0.00068
+Belo Horizonte,1.1743
+Belo Oriente,0.02347
+Belo Vale,0.00311
+Berilo,0.00125
+Bertópolis,0.0006
+Berizal,0.00068
+Betim,0.36765
+Bias Fortes,0.00046
+Bicas,0.00308
+Biquinhas,0.00072
+Boa Esperança,0.01175
+Bocaina de Minas,0.00089
+Bocaiúva,0.0136
+Bom Despacho,0.02013
+Bom Jardim de Minas,0.00142
+Bom Jesus da Penha,0.00218
+Bom Jesus do Amparo,0.00178
+Bom Jesus do Galho,0.0019
+Bom Repouso,0.00178
+Bom Sucesso,0.00494
+Bonfim,0.0015
+Bonfinópolis de Minas,0.00509
+Bonito de Minas,0.00112
+Borda da Mata,0.00416
+Botelhos,0.00362
+Botumirim,0.00084
+Brasilândia de Minas,0.00461
+Brasília de Minas,0.00419
+Brás Pires,0.00056
+Braúnas,0.00236
+Brazópolis,0.0022
+Brumadinho,0.05132
+Bueno Brandão,0.00267
+Buenópolis,0.00201
+Bugre,0.00053
+Buritis,0.01292
+Buritizeiro,0.00817
+Cabeceira Grande,0.0053
+Cabo Verde,0.00323
+Cachoeira da Prata,0.00058
+Cachoeira de Minas,0.00596
+Cachoeira Dourada,0.00299
+Caetanópolis,0.0035
+Caeté,0.01193
+Caiana,0.00098
+Cajuri,0.00108
+Caldas,0.00375
+Camacho,0.00079
+Camanducaia,0.01099
+Cambuí,0.0207
+Cambuquira,0.00412
+Campanário,0.00059
+Campanha,0.00488
+Campestre,0.0054
+Campina Verde,0.00596
+Campo Azul,0.00045
+Campo Belo,0.01381
+Campo do Meio,0.00256
+Campo Florido,0.00789
+Campos Altos,0.00482
+Campos Gerais,0.00782
+Canaã,0.00086
+Canápolis,0.00752
+Cana Verde,0.00089
+Candeias,0.00412
+Cantagalo,0.00063
+Caparaó,0.00108
+Capela Nova,0.00069
+Capelinha,0.00985
+Capetinga,0.0023
+Capim Branco,0.00137
+Capinópolis,0.0074
+Capitão Andrade,0.00067
+Capitão Enéas,0.00556
+Capitólio,0.00364
+Caputira,0.0016
+Caraí,0.00233
+Caranaíba,0.00046
+Carandaí,0.00834
+Carangola,0.00709
+Caratinga,0.02534
+Carbonita,0.00245
+Careaçu,0.00193
+Carlos Chagas,0.00527
+Carmésia,0.00044
+Carmo da Cachoeira,0.00357
+Carmo da Mata,0.00295
+Carmo de Minas,0.00322
+Carmo do Cajuru,0.00698
+Carmo do Paranaíba,0.01176
+Carmo do Rio Claro,0.00771
+Carmópolis de Minas,0.00512
+Carneirinho,0.00452
+Carrancas,0.00197
+Carvalhópolis,0.00079
+Carvalhos,0.00089
+Casa Grande,0.00077
+Cascalho Rico,0.00089
+Cássia,0.00484
+Conceição da Barra de Minas,0.00076
+Cataguases,0.01833
+Catas Altas,0.05584
+Catas Altas da Noruega,0.00045
+Catuji,0.00092
+Catuti,0.00063
+Caxambu,0.00412
+Cedro do Abaeté,0.00025
+Central de Minas,0.00097
+Centralina,0.0039
+Chácara,0.00052
+Chalé,0.00127
+Chapada do Norte,0.00123
+Chapada Gaúcha,0.00447
+Chiador,0.00041
+Cipotânea,0.00081
+Claraval,0.00202
+Claro dos Poções,0.00093
+Cláudio,0.01241
+Coimbra,0.00155
+Coluna,0.00134
+Comendador Gomes,0.00172
+Comercinho,0.00076
+Conceição da Aparecida,0.00304
+Conceição das Pedras,0.00068
+Conceição das Alagoas,0.01463
+Conceição de Ipanema,0.0009
+Conceição do Mato Dentro,0.10043
+Conceição do Pará,0.00548
+Conceição do Rio Verde,0.00381
+Conceição dos Ouros,0.0025
+Cônego Marinho,0.0007
+Confins,0.00539
+Congonhal,0.00245
+Congonhas,0.04567
+Congonhas do Norte,0.00055
+Conquista,0.00544
+Conselheiro Lafaiete,0.0346
+Conselheiro Pena,0.00426
+Consolação,0.00035
+Contagem,0.40478
+Coqueiral,0.0026
+Coração de Jesus,0.00303
+Cordisburgo,0.00162
+Cordislândia,0.00126
+Corinto,0.00679
+Coroaci,0.00139
+Coromandel,0.01703
+Coronel Fabriciano,0.02215
+Coronel Murta,0.00133
+Coronel Pacheco,0.00067
+Coronel Xavier Chaves,0.00101
+Córrego Danta,0.00184
+Córrego do Bom Jesus,0.00051
+Córrego Fundo,0.00356
+Córrego Novo,0.00043
+Couto de Magalhães de Minas,0.0007
+Crisólita,0.00085
+Cristais,0.00328
+Cristália,0.00066
+Cristiano Otoni,0.00137
+Cristina,0.0026
+Crucilândia,0.00092
+Cruzeiro da Fortaleza,0.00204
+Cruzília,0.00353
+Cuparaque,0.00082
+Curral de Dentro,0.00089
+Curvelo,0.02475
+Datas,0.00082
+Delfim Moreira,0.00139
+Delfinópolis,0.00274
+Delta,0.00518
+Descoberto,0.00091
+Desterro de Entre Rios,0.0029
+Desterro do Melo,0.00056
+Diamantina,0.01092
+Diogo de Vasconcelos,0.00048
+Dionísio,0.00101
+Divinésia,0.00071
+Divino,0.00354
+Divino das Laranjeiras,0.00068
+Divinolândia de Minas,0.00091
+Divinópolis,0.09245
+Divisa Alegre,0.00198
+Divisa Nova,0.00144
+Divisópolis,0.00103
+Dom Bosco,0.00077
+Dom Cavati,0.00077
+Dom Joaquim,0.00075
+Dom Silvério,0.0012
+Dom Viçoso,0.00043
+Dona Euzébia,0.00122
+Dores de Campos,0.00355
+Dores de Guanhães,0.00212
+Dores do Indaiá,0.00391
+Dores do Turvo,0.00074
+Doresópolis,0.00093
+Douradoquara,0.00088
+Durandé,0.00136
+Elói Mendes,0.00783
+Engenheiro Caldas,0.00174
+Engenheiro Navarro,0.00102
+Entre Folhas,0.00072
+Entre Rios de Minas,0.003
+Ervália,0.00454
+Esmeraldas,0.0108
+Espera Feliz,0.00456
+Espinosa,0.00404
+Espírito Santo do Dourado,0.00136
+Estiva,0.00668
+Estrela Dalva,0.00048
+Estrela do Indaiá,0.00183
+Estrela do Sul,0.0039
+Eugenópolis,0.00246
+Ewbank da Câmara,0.0006
+Extrema,0.15148
+Fama,0.00065
+Faria Lemos,0.00071
+Felício dos Santos,0.00082
+São Gonçalo do Rio Preto,0.00054
+Felisburgo,0.00084
+Felixlândia,0.00312
+Fernandes Tourinho,0.00051
+Ferros,0.00164
+Fervedouro,0.00174
+Florestal,0.00158
+Formiga,0.02457
+Formoso,0.00349
+Fortaleza de Minas,0.00124
+Fortuna de Minas,0.00057
+Francisco Badaró,0.00086
+Francisco Dumont,0.00084
+Francisco Sá,0.00501
+Franciscópolis,0.00114
+Frei Gaspar,0.00089
+Frei Inocêncio,0.00167
+Frei Lagonegro,0.00039
+Fronteira,0.01038
+Fronteira dos Vales,0.00054
+Fruta de Leite,0.00052
+Frutal,0.02744
+Funilândia,0.00092
+Galiléia,0.00126
+Gameleiras,0.00064
+Glaucilândia,0.00046
+Goiabeira,0.00055
+Goianá,0.00069
+Gonçalves,0.00105
+Gonzaga,0.00077
+Gouveia,0.00221
+Governador Valadares,0.08192
+Grão Mogol,0.00855
+Grupiara,0.00049
+Guanhães,0.01106
+Guapé,0.00434
+Guaraciaba,0.00128
+Guaraciama,0.00087
+Guaranésia,0.0061
+Guarani,0.00193
+Guarará,0.00064
+Guarda-Mor,0.00833
+Guaxupé,0.03114
+Guidoval,0.00137
+Guimarânia,0.00363
+Guiricema,0.00127
+Gurinhatã,0.00201
+Heliodora,0.00148
+Iapu,0.00196
+Ibertioga,0.00115
+Ibiá,0.01703
+Ibiaí,0.00128
+Ibiracatu,0.00057
+Ibiraci,0.00808
+Ibirité,0.03555
+Ibitiúra de Minas,0.00086
+Ibituruna,0.00066
+Icaraí de Minas,0.00124
+Igarapé,0.01073
+Igaratinga,0.00642
+Iguatama,0.00652
+Ijaci,0.00549
+Ilicínea,0.00294
+Imbé de Minas,0.00112
+Inconfidentes,0.00147
+Indaiabira,0.00097
+Indianópolis,0.00972
+Ingaí,0.00128
+Inhapim,0.00449
+Inhaúma,0.00162
+Inimutaba,0.00101
+Ipaba,0.002
+Ipanema,0.00382
+Ipatinga,0.19539
+Ipiaçu,0.00203
+Ipuiúna,0.00209
+Iraí de Minas,0.00335
+Itabira,0.16613
+Itabirinha,0.00151
+Itabirito,0.1458
+Itacambira,0.00068
+Itacarambi,0.00251
+Itaguara,0.00447
+Itaipé,0.00135
+Itajubá,0.03649
+Itamarandiba,0.00718
+Itamarati de Minas,0.00075
+Itambacuri,0.00378
+Itambé do Mato Dentro,0.0004
+Itamogi,0.00262
+Itamonte,0.01312
+Itanhandu,0.00522
+Itanhomi,0.00168
+Itaobim,0.00343
+Itapagipe,0.00571
+Itapecerica,0.00698
+Itapeva,0.00942
+Itatiaiuçu,0.07695
+Itaú de Minas,0.00804
+Itaúna,0.05642
+Itaverava,0.00079
+Itinga,0.00165
+Itueta,0.00136
+Ituiutaba,0.04214
+Itumirim,0.00102
+Iturama,0.02239
+Itutinga,0.00191
+Jaboticatubas,0.00331
+Jacinto,0.00146
+Jacuí,0.00168
+Jacutinga,0.01269
+Jaguaraçu,0.00122
+Jaíba,0.00942
+Jampruca,0.00092
+Janaúba,0.01779
+Januária,0.00915
+Japaraíba,0.00112
+Japonvar,0.00086
+Jeceaba,0.02167
+Jenipapo de Minas,0.00088
+Jequeri,0.00215
+Jequitaí,0.00145
+Jequitibá,0.0014
+Jequitinhonha,0.00305
+Jesuânia,0.00116
+Joaíma,0.0018
+Joanésia,0.00122
+João Monlevade,0.05383
+João Pinheiro,0.02393
+Joaquim Felício,0.0008
+Jordânia,0.00119
+José Gonçalves de Minas,0.00057
+José Raydan,0.0008
+Josenópolis,0.00064
+Nova União,0.00119
+Juatuba,0.01595
+Juiz de Fora,0.22522
+Juramento,0.00057
+Juruaia,0.00304
+Juvenília,0.00073
+Ladainha,0.00163
+Lagamar,0.00269
+Lagoa da Prata,0.02204
+Lagoa dos Patos,0.00066
+Lagoa Dourada,0.00383
+Lagoa Formosa,0.00628
+Lagoa Grande,0.00325
+Lagoa Santa,0.02429
+Lajinha,0.00443
+Lambari,0.00449
+Lamim,0.00058
+Laranjal,0.00106
+Lassance,0.00214
+Lavras,0.03264
+Leandro Ferreira,0.00062
+Leme do Prado,0.00073
+Leopoldina,0.01235
+Liberdade,0.00119
+Lima Duarte,0.00377
+Limeira do Oeste,0.00514
+Lontra,0.00104
+Luisburgo,0.00147
+Luislândia,0.00073
+Luminárias,0.00165
+Luz,0.00729
+Machacalis,0.00125
+Machado,0.01524
+Madre de Deus de Minas,0.00335
+Malacacheta,0.00262
+Mamonas,0.00067
+Manga,0.0027
+Manhuaçu,0.03638
+Manhumirim,0.00625
+Mantena,0.00529
+Maravilhas,0.00259
+Mar de Espanha,0.00253
+Maria da Fé,0.00225
+Mariana,0.08175
+Marilac,0.00064
+Mário Campos,0.0022
+Maripá de Minas,0.00083
+Marliéria,0.00067
+Marmelópolis,0.00047
+Martinho Campos,0.00527
+Martins Soares,0.00239
+Mata Verde,0.00102
+Materlândia,0.00067
+Mateus Leme,0.01198
+Matias Barbosa,0.00697
+Matias Cardoso,0.00176
+Matipó,0.00472
+Mato Verde,0.00175
+Matozinhos,0.01671
+Matutina,0.00108
+Medeiros,0.00274
+Medina,0.00281
+Mendes Pimentel,0.00086
+Mercês,0.00168
+Mesquita,0.00066
+Minas Novas,0.00389
+Minduri,0.00182
+Mirabela,0.00181
+Miradouro,0.00193
+Miraí,0.00371
+Miravânia,0.00052
+Moeda,0.00085
+Moema,0.00169
+Monjolos,0.00052
+Monsenhor Paulo,0.00253
+Montalvânia,0.00184
+Monte Alegre de Minas,0.00841
+Monte Azul,0.00284
+Monte Belo,0.00406
+Monte Carmelo,0.0173
+Monte Formoso,0.00049
+Monte Santo de Minas,0.00536
+Montes Claros,0.11984
+Monte Sião,0.00673
+Montezuma,0.00101
+Morada Nova de Minas,0.006
+Morro da Garça,0.00057
+Morro do Pilar,0.00049
+Munhoz,0.00143
+Muriaé,0.02946
+Mutum,0.00564
+Muzambinho,0.00594
+Nacip Raydan,0.00041
+Nanuque,0.00897
+Naque,0.001
+Natalândia,0.00083
+Natércia,0.00128
+Nazareno,0.00742
+Nepomuceno,0.00686
+Ninheira,0.0014
+Nova Belém,0.00093
+Nova Era,0.0048
+Nova Lima,0.23349
+Nova Módica,0.00065
+Nova Ponte,0.01239
+Nova Porteirinha,0.00129
+Nova Resende,0.00428
+Nova Serrana,0.02925
+Novo Cruzeiro,0.00367
+Novo Oriente de Minas,0.00135
+Novorizonte,0.00078
+Olaria,0.00035
+Olhos-d'Água,0.00235
+Olímpio Noronha,0.00049
+Oliveira,0.01226
+Oliveira Fortes,0.00045
+Onça de Pitangui,0.00072
+Oratórios,0.00079
+Orizânia,0.00135
+Ouro Branco,0.09812
+Ouro Fino,0.01037
+Ouro Preto,0.10564
+Ouro Verde de Minas,0.00075
+Padre Carvalho,0.00065
+Padre Paraíso,0.00237
+Paineiras,0.00092
+Pains,0.0059
+Pai Pedro,0.00065
+Paiva,0.0003
+Palma,0.00115
+Palmópolis,0.00071
+Papagaios,0.00415
+Paracatu,0.07988
+Pará de Minas,0.04467
+Paraguaçu,0.00722
+Paraisópolis,0.00658
+Paraopeba,0.01019
+Passabém,0.00026
+Passa Quatro,0.00524
+Passa Tempo,0.00533
+Passa Vinte,0.00047
+Passos,0.03356
+Patis,0.00061
+Patos de Minas,0.06819
+Patrocínio,0.04082
+Patrocínio do Muriaé,0.00129
+Paula Cândido,0.00152
+Paulistas,0.00075
+Pavão,0.00103
+Peçanha,0.003
+Pedra Azul,0.00445
+Pedra Bonita,0.00107
+Pedra do Anta,0.00064
+Pedra do Indaiá,0.00129
+Pedra Dourada,0.00047
+Pedralva,0.00203
+Pedras de Maria da Cruz,0.00122
+Pedrinópolis,0.00226
+Pedro Leopoldo,0.02152
+Pedro Teixeira,0.00034
+Pequeri,0.00069
+Pequi,0.00095
+Perdigão,0.00252
+Perdizes,0.01808
+Perdões,0.00696
+Periquito,0.00124
+Pescador,0.00052
+Piau,0.00103
+Piedade de Caratinga,0.00156
+Piedade de Ponte Nova,0.0007
+Piedade do Rio Grande,0.00123
+Piedade dos Gerais,0.001
+Pimenta,0.00313
+Pingo-d'Água,0.00058
+Pintópolis,0.00079
+Piracema,0.00336
+Pirajuba,0.00448
+Piranga,0.00222
+Piranguçu,0.00087
+Piranguinho,0.00151
+Pirapetinga,0.00709
+Pirapora,0.0319
+Piraúba,0.00223
+Pitangui,0.00823
+Piumhi,0.01421
+Planura,0.00637
+Poço Fundo,0.00448
+Poços de Caldas,0.09467
+Pocrane,0.00135
+Pompéu,0.01298
+Ponte Nova,0.0238
+Ponto Chique,0.00058
+Ponto dos Volantes,0.00136
+Porteirinha,0.00585
+Porto Firme,0.00145
+Poté,0.00187
+Pouso Alegre,0.11895
+Pouso Alto,0.00308
+Prados,0.00254
+Prata,0.01435
+Pratápolis,0.00254
+Pratinha,0.00172
+Presidente Bernardes,0.00075
+Presidente Juscelino,0.00054
+Presidente Kubitschek,0.0004
+Presidente Olegário,0.00812
+Alto Jequitibá,0.00139
+Prudente de Morais,0.00225
+Quartel Geral,0.00086
+Queluzito,0.00044
+Raposos,0.00215
+Raul Soares,0.0047
+Recreio,0.00137
+Reduto,0.00135
+Resende Costa,0.0023
+Resplendor,0.00308
+Ressaquinha,0.00414
+Riachinho,0.00175
+Riacho dos Machados,0.00591
+Ribeirão das Neves,0.0575
+Ribeirão Vermelho,0.00117
+Rio Acima,0.00524
+Rio Casca,0.00263
+Rio Doce,0.00058
+Rio do Prado,0.00058
+Rio Espera,0.00066
+Rio Manso,0.00126
+Rio Novo,0.00133
+Rio Paranaíba,0.01006
+Rio Pardo de Minas,0.00383
+Rio Piracicaba,0.01486
+Rio Pomba,0.00463
+Rio Preto,0.00077
+Rio Vermelho,0.00156
+Ritápolis,0.001
+Rochedo de Minas,0.00127
+Rodeiro,0.0061
+Romaria,0.00301
+Rosário da Limeira,0.00075
+Rubelita,0.00089
+Rubim,0.00124
+Sabará,0.04662
+Sabinópolis,0.00371
+Sacramento,0.0232
+Salinas,0.00741
+Salto da Divisa,0.00147
+Santa Bárbara,0.01807
+Santa Bárbara do Leste,0.00124
+Santa Bárbara do Monte Verde,0.00062
+Santa Bárbara do Tugúrio,0.00078
+Santa Cruz de Minas,0.00115
+Santa Cruz de Salinas,0.00054
+Santa Cruz do Escalvado,0.00085
+Santa Efigênia de Minas,0.00057
+Santa Fé de Minas,0.00067
+Santa Helena de Minas,0.00064
+Santa Juliana,0.00955
+Santa Luzia,0.05871
+Santa Margarida,0.00393
+Santa Maria de Itabira,0.00299
+Santa Maria do Salto,0.00055
+Santa Maria do Suaçuí,0.0019
+Santana da Vargem,0.0027
+Santana de Cataguases,0.00055
+Santana de Pirapama,0.00129
+Santana do Deserto,0.00053
+Santana do Garambéu,0.00043
+Santana do Jacaré,0.00118
+Santana do Manhuaçu,0.00211
+Santana do Paraíso,0.00833
+Santana do Riacho,0.00115
+Santana dos Montes,0.00055
+Santa Rita de Caldas,0.00253
+Santa Rita de Jacutinga,0.00083
+Santa Rita de Minas,0.00168
+Santa Rita de Ibitipoca,0.00069
+Santa Rita do Itueto,0.00199
+Santa Rita do Sapucaí,0.02158
+Santa Rosa da Serra,0.00113
+Santa Vitória,0.00891
+Santo Antônio do Amparo,0.00393
+Santo Antônio do Aventureiro,0.00075
+Santo Antônio do Grama,0.00095
+Santo Antônio do Itambé,0.0005
+Santo Antônio do Jacinto,0.00127
+Santo Antônio do Monte,0.00935
+Santo Antônio do Retiro,0.00079
+Santo Antônio do Rio Abaixo,0.00032
+Santo Hipólito,0.00056
+Santos Dumont,0.01224
+São Bento Abade,0.00099
+São Brás do Suaçuí,0.00089
+São Domingos das Dores,0.00101
+São Domingos do Prata,0.00348
+São Félix de Minas,0.00049
+São Francisco,0.00719
+São Francisco de Paula,0.00167
+São Francisco de Sales,0.00215
+São Francisco do Glória,0.00081
+São Geraldo,0.00293
+São Geraldo da Piedade,0.0005
+São Geraldo do Baixio,0.00055
+São Gonçalo do Abaeté,0.00361
+São Gonçalo do Pará,0.00345
+São Gonçalo do Rio Abaixo,0.08437
+São Gonçalo do Sapucaí,0.01096
+São Gotardo,0.0132
+São João Batista do Glória,0.00298
+São João da Lagoa,0.00067
+São João da Mata,0.00061
+São João da Ponte,0.00298
+São João das Missões,0.00103
+São João del Rei,0.03334
+São João do Manhuaçu,0.00203
+São João do Manteninha,0.0009
+São João do Oriente,0.00113
+São João do Pacuí,0.0005
+São João do Paraíso,0.00316
+São João Evangelista,0.00281
+São João Nepomuceno,0.00562
+São Joaquim de Bicas,0.01202
+São José da Barra,0.00989
+São José da Lapa,0.00694
+São José da Safira,0.00055
+São José da Varginha,0.00127
+São José do Alegre,0.00064
+São José do Divino,0.00059
+São José do Goiabal,0.00075
+São José do Jacuri,0.00111
+São José do Mantimento,0.00049
+São Lourenço,0.01307
+São Miguel do Anta,0.00117
+São Pedro da União,0.00164
+São Pedro dos Ferros,0.00149
+São Pedro do Suaçuí,0.00091
+São Romão,0.0027
+São Roque de Minas,0.00359
+São Sebastião da Bela Vista,0.00492
+São Sebastião da Vargem Alegre,0.00074
+São Sebastião do Anta,0.00116
+São Sebastião do Maranhão,0.00112
+São Sebastião do Oeste,0.00662
+São Sebastião do Paraíso,0.02482
+São Sebastião do Rio Preto,0.00029
+São Sebastião do Rio Verde,0.0004
+São Tiago,0.00273
+São Tomás de Aquino,0.00217
+São Tomé das Letras,0.00152
+São Vicente de Minas,0.00229
+Sapucaí-Mirim,0.00122
+Sardoá,0.00076
+Sarzedo,0.02431
+Setubinha,0.00136
+Sem-Peixe,0.00041
+Senador Amaral,0.00099
+Senador Cortes,0.00042
+Senador Firmino,0.00118
+Senador José Bento,0.00039
+Senador Modestino Gonçalves,0.00102
+Senhora de Oliveira,0.0009
+Senhora do Porto,0.00055
+Senhora dos Remédios,0.00128
+Sericita,0.00116
+Seritinga,0.0005
+Serra Azul de Minas,0.0005
+Serra da Saudade,0.00024
+Serra dos Aimorés,0.00101
+Serra do Salitre,0.01091
+Serrania,0.00179
+Serranópolis de Minas,0.00053
+Serranos,0.00043
+Serro,0.00324
+Sete Lagoas,0.14047
+Silveirânia,0.00039
+Silvianópolis,0.00157
+Simão Pereira,0.00115
+Simonésia,0.00317
+Sobrália,0.00075
+Soledade de Minas,0.00091
+Tabuleiro,0.00073
+Taiobeiras,0.00619
+Taparuba,0.00054
+Tapira,0.00765
+Tapiraí,0.00062
+Taquaraçu de Minas,0.00073
+Tarumirim,0.00209
+Teixeiras,0.00212
+Teófilo Otoni,0.03275
+Timóteo,0.06226
+Tiradentes,0.00228
+Tiros,0.00421
+Tocantins,0.00388
+Tocos do Moji,0.00078
+Toledo,0.00119
+Tombos,0.00145
+Três Corações,0.03284
+Três Marias,0.03497
+Três Pontas,0.02085
+Tumiritinga,0.00092
+Tupaciguara,0.0105
+Turmalina,0.00492
+Turvolândia,0.00155
+Ubá,0.03966
+Ubaí,0.0013
+Ubaporanga,0.00186
+Uberaba,0.22633
+Uberlândia,0.47857
+Umburatiba,0.00049
+Unaí,0.04793
+União de Minas,0.00145
+Uruana de Minas,0.00108
+Urucânia,0.00266
+Urucuia,0.00214
+Vargem Alegre,0.00086
+Vargem Bonita,0.00097
+Vargem Grande do Rio Pardo,0.00076
+Varginha,0.08981
+Varjão de Minas,0.00351
+Várzea da Palma,0.01185
+Varzelândia,0.00208
+Vazante,0.01297
+Verdelândia,0.00128
+Veredinha,0.00148
+Veríssimo,0.00189
+Vermelho Novo,0.00071
+Vespasiano,0.03352
+Viçosa,0.0201
+Vieiras,0.00059
+Mathias Lobato,0.00049
+Virgem da Lapa,0.00146
+Virgínia,0.002
+Virginópolis,0.00204
+Virgolândia,0.0007
+Visconde do Rio Branco,0.015
+Volta Grande,0.00156
+Wenceslau Braz,0.00037
+Afonso Cláudio,0.00632
+Águia Branca,0.00273
+Água Doce do Norte,0.00205
+Alegre,0.00638
+Alfredo Chaves,0.00508
+Alto Rio Novo,0.00125
+Anchieta,0.06396
+Apiacá,0.00131
+Aracruz,0.05895
+Atílio Vivácqua,0.004
+Baixo Guandu,0.0103
+Barra de São Francisco,0.01293
+Boa Esperança,0.00301
+Bom Jesus do Norte,0.00207
+Brejetuba,0.00327
+Cachoeiro de Itapemirim,0.06821
+Cariacica,0.15201
+Castelo,0.01299
+Colatina,0.04858
+Conceição da Barra,0.00674
+Conceição do Castelo,0.0031
+Divino de São Lourenço,0.00092
+Domingos Martins,0.01063
+Dores do Rio Preto,0.00177
+Ecoporanga,0.00456
+Fundão,0.0052
+Governador Lindenberg,0.00371
+Guaçuí,0.0068
+Guarapari,0.02816
+Ibatiba,0.00499
+Ibiraçu,0.00321
+Ibitirama,0.00191
+Iconha,0.00349
+Irupi,0.00262
+Itaguaçu,0.00362
+Itapemirim,0.06374
+Itarana,0.00295
+Iúna,0.00597
+Jaguaré,0.01069
+Jerônimo Monteiro,0.00191
+João Neiva,0.00717
+Laranja da Terra,0.00208
+Linhares,0.08917
+Mantenópolis,0.00225
+Marataízes,0.0739
+Marechal Floriano,0.00574
+Marilândia,0.00347
+Mimoso do Sul,0.00674
+Montanha,0.00456
+Mucurici,0.00107
+Muniz Freire,0.00425
+Muqui,0.0026
+Nova Venécia,0.01486
+Pancas,0.00398
+Pedro Canário,0.00445
+Pinheiros,0.00956
+Piúma,0.00972
+Ponto Belo,0.00119
+Presidente Kennedy,0.07558
+Rio Bananal,0.00583
+Rio Novo do Sul,0.00255
+Santa Leopoldina,0.00366
+Santa Maria de Jetibá,0.0181
+Santa Teresa,0.0064
+São Domingos do Norte,0.00368
+São Gabriel da Palha,0.00846
+São José do Calçado,0.00226
+São Mateus,0.03271
+São Roque do Canaã,0.00254
+Serra,0.41366
+Sooretama,0.00741
+Vargem Alta,0.00477
+Venda Nova do Imigrante,0.00779
+Viana,0.04691
+Vila Pavão,0.002
+Vila Valério,0.00482
+Vila Velha,0.18093
+Vitória,0.34868
+Angra dos Reis,0.12421
+Aperibé,0.00276
+Araruama,0.04698
+Areal,0.00474
+Armação dos Búzios,0.03296
+Arraial do Cabo,0.03002
+Barra do Piraí,0.03011
+Barra Mansa,0.07156
+Belford Roxo,0.09809
+Bom Jardim,0.00985
+Bom Jesus do Itabapoana,0.01008
+Cabo Frio,0.13714
+Cachoeiras de Macacu,0.01449
+Cambuci,0.00444
+Carapebus,0.00806
+Comendador Levy Gasparian,0.0067
+Campos dos Goytacazes,0.41255
+Cantagalo,0.00934
+Cardoso Moreira,0.00439
+Carmo,0.00623
+Casimiro de Abreu,0.0261
+Conceição de Macabu,0.00482
+Cordeiro,0.00506
+Duas Barras,0.00277
+Duque de Caxias,0.58961
+Engenheiro Paulo de Frontin,0.00451
+Guapimirim,0.01514
+Iguaba Grande,0.00701
+Itaboraí,0.06259
+Itaguaí,0.11654
+Italva,0.00465
+Itaocara,0.00706
+Itaperuna,0.03767
+Itatiaia,0.07649
+Japeri,0.01698
+Laje do Muriaé,0.00204
+Macaé,0.19692
+Macuco,0.00238
+Magé,0.05288
+Mangaratiba,0.03564
+Maricá,0.95221
+Mendes,0.00397
+Mesquita,0.02906
+Miguel Pereira,0.00702
+Miracema,0.00735
+Natividade,0.0036
+Nilópolis,0.03395
+Niterói,0.73618
+Nova Friburgo,0.07018
+Nova Iguaçu,0.19745
+Paracambi,0.0129
+Paraíba do Sul,0.0139
+Paraty,0.0217
+Paty do Alferes,0.0076
+Petrópolis,0.17383
+Pinheiral,0.01612
+Piraí,0.02719
+Porciúncula,0.00462
+Porto Real,0.04711
+Quatis,0.00338
+Queimados,0.0484
+Quissamã,0.06654
+Resende,0.11933
+Rio Bonito,0.02032
+Rio Claro,0.00484
+Rio das Flores,0.00327
+Rio das Ostras,0.0993
+Rio de Janeiro,3.99056
+Santa Maria Madalena,0.0026
+Santo Antônio de Pádua,0.01425
+São Francisco de Itabapoana,0.01314
+São Fidélis,0.00938
+São Gonçalo,0.22553
+São João da Barra,0.10971
+São João de Meriti,0.09946
+São José de Ubá,0.00218
+São José do Vale do Rio Preto,0.0082
+São Pedro da Aldeia,0.03044
+São Sebastião do Alto,0.00268
+Sapucaia,0.0111
+Saquarema,0.46802
+Seropédica,0.05301
+Silva Jardim,0.00669
+Sumidouro,0.00666
+Tanguá,0.00771
+Teresópolis,0.06573
+Trajano de Moraes,0.00269
+Três Rios,0.07044
+Valença,0.03465
+Varre-Sai,0.00293
+Vassouras,0.01466
+Volta Redonda,0.21828
+Adamantina,0.01521
+Adolfo,0.00128
+Aguaí,0.01459
+Águas da Prata,0.00232
+Águas de Lindóia,0.0065
+Águas de Santa Bárbara,0.00241
+Águas de São Pedro,0.00164
+Agudos,0.02928
+Alambari,0.00144
+Alfredo Marcondes,0.00134
+Altair,0.00125
+Altinópolis,0.00925
+Alto Alegre,0.00126
+Alumínio,0.04419
+Álvares Florence,0.00138
+Álvares Machado,0.00788
+Álvaro de Carvalho,0.00065
+Alvinlândia,0.00065
+Americana,0.16885
+Américo Brasiliense,0.01365
+Américo de Campos,0.00141
+Amparo,0.05717
+Analândia,0.00231
+Andradina,0.03157
+Angatuba,0.01636
+Anhembi,0.00188
+Anhumas,0.00117
+Aparecida,0.01155
+Aparecida d'Oeste,0.00168
+Apiaí,0.00996
+Araçariguama,0.05342
+Araçatuba,0.10006
+Araçoiaba da Serra,0.01338
+Aramina,0.00167
+Arandu,0.00216
+Arapeí,0.00051
+Araraquara,0.13263
+Araras,0.07704
+Arco-Íris,0.00069
+Arealva,0.00252
+Areias,0.00064
+Areiópolis,0.00181
+Ariranha,0.01262
+Artur Nogueira,0.0191
+Arujá,0.09202
+Aspásia,0.00044
+Assis,0.0453
+Atibaia,0.09278
+Auriflama,0.00398
+Avaí,0.00417
+Avanhandava,0.00221
+Avaré,0.03638
+Bady Bassitt,0.00612
+Balbinos,0.00073
+Bálsamo,0.00309
+Bananal,0.0024
+Barão de Antonina,0.00083
+Barbosa,0.00121
+Bariri,0.01801
+Barra Bonita,0.01682
+Barra do Chapéu,0.00148
+Barra do Turvo,0.0014
+Barretos,0.06551
+Barrinha,0.00693
+Barueri,0.64388
+Bastos,0.01184
+Batatais,0.02682
+Bauru,0.18554
+Bebedouro,0.04528
+Bento de Abreu,0.00234
+Bernardino de Campos,0.00419
+Bertioga,0.02294
+Bilac,0.00325
+Birigui,0.0438
+Biritiba Mirim,0.01077
+Boa Esperança do Sul,0.00422
+Bocaina,0.00313
+Bofete,0.00236
+Boituva,0.03765
+Bom Jesus dos Perdões,0.01623
+Bom Sucesso de Itararé,0.00071
+Borá,0.00082
+Boracéia,0.00576
+Borborema,0.00575
+Borebi,0.00082
+Botucatu,0.06635
+Bragança Paulista,0.08826
+Braúna,0.00134
+Brejo Alegre,0.00084
+Brodowski,0.00993
+Brotas,0.01247
+Buri,0.00759
+Buritama,0.00696
+Buritizal,0.00271
+Cabrália Paulista,0.00114
+Cabreúva,0.06615
+Caçapava,0.05786
+Cachoeira Paulista,0.00747
+Caconde,0.00637
+Cafelândia,0.00757
+Caiabu,0.00077
+Caieiras,0.05391
+Caiuá,0.00107
+Cajamar,0.25203
+Cajati,0.01948
+Cajobi,0.0019
+Cajuru,0.00845
+Campina do Monte Alegre,0.00168
+Campinas,0.80943
+Campo Limpo Paulista,0.02808
+Campos do Jordão,0.01609
+Campos Novos Paulista,0.00216
+Cananéia,0.00293
+Canas,0.00144
+Cândido Mota,0.01685
+Cândido Rodrigues,0.00119
+Canitar,0.00182
+Capão Bonito,0.01408
+Capela do Alto,0.00435
+Capivari,0.03319
+Caraguatatuba,0.05029
+Carapicuíba,0.07606
+Cardoso,0.00356
+Casa Branca,0.01308
+Cássia dos Coqueiros,0.00325
+Castilho,0.0154
+Catanduva,0.0579
+Catiguá,0.0017
+Cedral,0.00592
+Cerqueira César,0.01062
+Cerquilho,0.02601
+Cesário Lange,0.00822
+Charqueada,0.00572
+Clementina,0.00207
+Colina,0.01711
+Colômbia,0.00414
+Conchal,0.00953
+Conchas,0.0048
+Cordeirópolis,0.04558
+Coroados,0.00243
+Coronel Macedo,0.00157
+Corumbataí,0.00383
+Cosmópolis,0.02341
+Cosmorama,0.00562
+Cotia,0.17881
+Cravinhos,0.01945
+Cristais Paulista,0.00385
+Cruzália,0.00153
+Cruzeiro,0.03531
+Cubatão,0.24352
+Cunha,0.00362
+Descalvado,0.02309
+Diadema,0.20511
+Dirce Reis,0.00077
+Divinolândia,0.00545
+Dobrada,0.00154
+Dois Córregos,0.00927
+Dolcinópolis,0.00065
+Dourado,0.0089
+Dracena,0.01603
+Duartina,0.0028
+Dumont,0.0038
+Echaporã,0.00169
+Eldorado,0.00365
+Elias Fausto,0.01115
+Elisiário,0.00084
+Embaúba,0.00063
+Embu das Artes,0.15884
+Embu-Guaçu,0.01616
+Emilianópolis,0.00088
+Engenheiro Coelho,0.00734
+Espírito Santo do Pinhal,0.02292
+Espírito Santo do Turvo,0.00102
+Estrela d'Oeste,0.00836
+Estrela do Norte,0.00069
+Euclides da Cunha Paulista,0.00151
+Fartura,0.00526
+Fernandópolis,0.02739
+Fernando Prestes,0.00228
+Fernão,0.0009
+Ferraz de Vasconcelos,0.0526
+Flora Rica,0.00047
+Floreal,0.00091
+Flórida Paulista,0.00294
+Florínea,0.00191
+Franca,0.12512
+Francisco Morato,0.02078
+Franco da Rocha,0.04769
+Gabriel Monteiro,0.00104
+Gália,0.00192
+Garça,0.01914
+Gastão Vidigal,0.00095
+Gavião Peixoto,0.01314
+General Salgado,0.00305
+Getulina,0.0024
+Glicério,0.00139
+Guaiçara,0.00258
+Guaimbê,0.00492
+Guaíra,0.03001
+Guapiaçu,0.00995
+Guapiara,0.00487
+Guará,0.00686
+Guaraçaí,0.00362
+Guaraci,0.00417
+Guarani d'Oeste,0.00041
+Guarantã,0.00218
+Guararapes,0.01331
+Guararema,0.01716
+Guaratinguetá,0.08741
+Guareí,0.00348
+Guariba,0.0126
+Guarujá,0.11645
+Guarulhos,0.85858
+Guatapará,0.00272
+Guzolândia,0.00104
+Herculândia,0.00395
+Holambra,0.01624
+Hortolândia,0.20392
+Iacanga,0.0073
+Iacri,0.00352
+Iaras,0.00187
+Ibaté,0.01286
+Ibirá,0.00353
+Ibirarema,0.00271
+Ibitinga,0.02181
+Ibiúna,0.0263
+Icém,0.00232
+Iepê,0.00482
+Igaraçu do Tietê,0.00423
+Igarapava,0.01442
+Igaratá,0.00266
+Iguape,0.01763
+Ilhabela,0.15486
+Ilha Comprida,0.01513
+Ilha Solteira,0.00783
+Indaiatuba,0.25318
+Indiana,0.00097
+Indiaporã,0.00123
+Inúbia Paulista,0.00152
+Ipaussu,0.00554
+Iperó,0.01076
+Ipeúna,0.01052
+Ipiguá,0.00138
+Iporanga,0.0007
+Ipuã,0.00491
+Iracemápolis,0.02361
+Irapuã,0.00207
+Irapuru,0.00122
+Itaberá,0.01127
+Itaí,0.01026
+Itajobi,0.01038
+Itaju,0.00258
+Itanhaém,0.02629
+Itaoca,0.00059
+Itapecerica da Serra,0.05447
+Itapetininga,0.07057
+Itapeva,0.04204
+Itapevi,0.14264
+Itapira,0.05278
+Itapirapuã Paulista,0.00058
+Itápolis,0.0181
+Itaporanga,0.00339
+Itapuí,0.01114
+Itapura,0.00116
+Itaquaquecetuba,0.10563
+Itararé,0.01312
+Itariri,0.00487
+Itatiba,0.09149
+Itatinga,0.0044
+Itirapina,0.01413
+Itirapuã,0.0018
+Itobi,0.0022
+Itu,0.11696
+Itupeva,0.09347
+Ituverava,0.02116
+Jaborandi,0.0017
+Jaboticabal,0.03996
+Jacareí,0.17859
+Jaci,0.00751
+Jacupiranga,0.00589
+Jaguariúna,0.15514
+Jales,0.02199
+Jambeiro,0.00392
+Jandira,0.05446
+Jardinópolis,0.01754
+Jarinu,0.03326
+Jaú,0.06194
+Jeriquara,0.00187
+Joanópolis,0.0029
+João Ramalho,0.00165
+José Bonifácio,0.01533
+Júlio Mesquita,0.00065
+Jumirim,0.00237
+Jundiaí,0.63992
+Junqueirópolis,0.00896
+Juquiá,0.00407
+Juquitiba,0.00637
+Lagoinha,0.00082
+Laranjal Paulista,0.01566
+Lavínia,0.00205
+Lavrinhas,0.00148
+Leme,0.04551
+Lençóis Paulista,0.05464
+Limeira,0.17821
+Lindóia,0.00273
+Lins,0.07505
+Lorena,0.04302
+Lourdes,0.00048
+Louveira,0.21834
+Lucélia,0.00648
+Lucianópolis,0.00078
+Luís Antônio,0.01727
+Luiziânia,0.00104
+Lupércio,0.00109
+Lutécia,0.00112
+Macatuba,0.00714
+Macaubal,0.00219
+Macedônia,0.00101
+Magda,0.00116
+Mairinque,0.02991
+Mairiporã,0.02539
+Manduri,0.00324
+Marabá Paulista,0.00174
+Maracaí,0.00574
+Marapoama,0.00133
+Mariápolis,0.00085
+Marília,0.10825
+Marinópolis,0.00044
+Martinópolis,0.00838
+Matão,0.05944
+Mauá,0.23054
+Mendonça,0.00416
+Meridiano,0.00437
+Mesópolis,0.00091
+Miguelópolis,0.01128
+Mineiros do Tietê,0.00251
+Miracatu,0.00507
+Mira Estrela,0.00078
+Mirandópolis,0.0082
+Mirante do Paranapanema,0.00673
+Mirassol,0.02952
+Mirassolândia,0.00237
+Mococa,0.03377
+Mogi das Cruzes,0.21753
+Mogi Guaçu,0.07618
+Mogi Mirim,0.07006
+Mombuca,0.00138
+Monções,0.00065
+Mongaguá,0.01392
+Monte Alegre do Sul,0.0028
+Monte Alto,0.02702
+Monte Aprazível,0.00851
+Monte Azul Paulista,0.00709
+Monte Castelo,0.00142
+Monteiro Lobato,0.00092
+Monte Mor,0.04791
+Morro Agudo,0.0136
+Morungaba,0.00703
+Motuca,0.00134
+Murutinga do Sul,0.00098
+Nantes,0.00158
+Narandiba,0.00709
+Natividade da Serra,0.00104
+Nazaré Paulista,0.00516
+Neves Paulista,0.00307
+Nhandeara,0.00408
+Nipoã,0.00106
+Nova Aliança,0.00362
+Nova Campina,0.00245
+Nova Canaã Paulista,0.00051
+Nova Castilho,0.00067
+Nova Europa,0.00419
+Nova Granada,0.00569
+Nova Guataporanga,0.00041
+Nova Independência,0.00237
+Novais,0.00087
+Nova Luzitânia,0.00067
+Nova Odessa,0.04461
+Novo Horizonte,0.0176
+Nuporanga,0.00963
+Ocauçu,0.00157
+Óleo,0.00142
+Olímpia,0.02831
+Onda Verde,0.00228
+Oriente,0.00144
+Orindiúva,0.00711
+Orlândia,0.02862
+Osasco,0.9555
+Oscar Bressane,0.00125
+Osvaldo Cruz,0.01207
+Ourinhos,0.04396
+Ouroeste,0.00609
+Ouro Verde,0.0015
+Pacaembu,0.00242
+Palestina,0.00467
+Palmares Paulista,0.00151
+Palmeira d'Oeste,0.00239
+Palmital,0.00999
+Panorama,0.00353
+Paraguaçu Paulista,0.01999
+Paraibuna,0.0039
+Paraíso,0.00305
+Paranapanema,0.01049
+Paranapuã,0.00148
+Parapuã,0.00823
+Pardinho,0.00409
+Pariquera-Açu,0.0065
+Parisi,0.00059
+Patrocínio Paulista,0.0151
+Paulicéia,0.00222
+Paulínia,0.58132
+Paulistânia,0.00054
+Paulo de Faria,0.00299
+Pederneiras,0.03402
+Pedra Bela,0.00131
+Pedranópolis,0.00089
+Pedregulho,0.01921
+Pedreira,0.01667
+Pedrinhas Paulista,0.00196
+Pedro de Toledo,0.00198
+Penápolis,0.02311
+Pereira Barreto,0.01207
+Pereiras,0.00353
+Peruíbe,0.02182
+Piacatu,0.00132
+Piedade,0.01772
+Pilar do Sul,0.01416
+Pindamonhangaba,0.15249
+Pindorama,0.00553
+Pinhalzinho,0.00349
+Piquerobi,0.00074
+Piquete,0.0022
+Piracaia,0.00734
+Piracicaba,0.38344
+Piraju,0.01028
+Pirajuí,0.00599
+Pirangi,0.00405
+Pirapora do Bom Jesus,0.00917
+Pirapozinho,0.01029
+Pirassununga,0.03675
+Piratininga,0.00309
+Pitangueiras,0.01542
+Planalto,0.00215
+Platina,0.00133
+Poá,0.04183
+Poloni,0.00171
+Pompéia,0.02166
+Pongaí,0.00105
+Pontal,0.01623
+Pontalinda,0.00109
+Pontes Gestal,0.00141
+Populina,0.0013
+Porangaba,0.00259
+Porto Feliz,0.04166
+Porto Ferreira,0.02769
+Potim,0.00342
+Potirendaba,0.00688
+Pracinha,0.00045
+Pradópolis,0.01217
+Praia Grande,0.09685
+Pratânia,0.0014
+Presidente Alves,0.00086
+Presidente Bernardes,0.00368
+Presidente Epitácio,0.01471
+Presidente Prudente,0.10255
+Presidente Venceslau,0.00913
+Promissão,0.02347
+Quadra,0.0016
+Quatá,0.00911
+Queiroz,0.0076
+Queluz,0.00431
+Quintana,0.00307
+Rafard,0.00491
+Rancharia,0.01533
+Redenção da Serra,0.00074
+Regente Feijó,0.01092
+Reginópolis,0.00205
+Registro,0.02616
+Restinga,0.00235
+Ribeira,0.00069
+Ribeirão Bonito,0.00413
+Ribeirão Branco,0.00661
+Ribeirão Corrente,0.00354
+Ribeirão do Sul,0.00249
+Ribeirão dos Índios,0.00052
+Ribeirão Grande,0.0013
+Ribeirão Pires,0.04318
+Ribeirão Preto,0.44335
+Riversul,0.00103
+Rifaina,0.00212
+Rincão,0.00251
+Rinópolis,0.00387
+Rio Claro,0.14697
+Rio das Pedras,0.01984
+Rio Grande da Serra,0.01066
+Riolândia,0.00298
+Rosana,0.0214
+Roseira,0.00416
+Rubiácea,0.00088
+Rubinéia,0.00114
+Sabino,0.00195
+Sagres,0.00061
+Sales,0.00188
+Sales Oliveira,0.00463
+Salesópolis,0.00279
+Salmourão,0.00108
+Saltinho,0.00419
+Salto,0.10323
+Salto de Pirapora,0.02465
+Salto Grande,0.00304
+Sandovalina,0.00354
+Santa Adélia,0.00424
+Santa Albertina,0.00238
+Santa Bárbara d'Oeste,0.08683
+Santa Branca,0.00347
+Santa Clara d'Oeste,0.00107
+Santa Cruz da Conceição,0.00179
+Santa Cruz da Esperança,0.0007
+Santa Cruz das Palmeiras,0.00728
+Santa Cruz do Rio Pardo,0.03092
+Santa Ernestina,0.00116
+Santa Fé do Sul,0.01492
+Santa Gertrudes,0.04323
+Santa Isabel,0.01841
+Santa Lúcia,0.00146
+Santa Maria da Serra,0.0017
+Santa Mercedes,0.00077
+Santana da Ponte Pensa,0.00044
+Santana de Parnaíba,0.1281
+Santa Rita d'Oeste,0.00076
+Santa Rita do Passa Quatro,0.00916
+Santa Rosa de Viterbo,0.00925
+Santa Salete,0.00047
+Santo Anastácio,0.00617
+Santo André,0.36196
+Santo Antônio da Alegria,0.00235
+Santo Antônio de Posse,0.02076
+Santo Antônio do Aracanguá,0.00321
+Santo Antônio do Jardim,0.00247
+Santo Antônio do Pinhal,0.00165
+Santo Expedito,0.00052
+Santópolis do Aguapeí,0.00089
+Santos,0.26731
+São Bento do Sapucaí,0.00451
+São Bernardo do Campo,0.64665
+São Caetano do Sul,0.17273
+São Carlos,0.15692
+São Francisco,0.00057
+São João da Boa Vista,0.04588
+São João das Duas Pontes,0.00058
+São João de Iracema,0.00057
+São João do Pau d'Alho,0.00065
+São Joaquim da Barra,0.02431
+São José da Bela Vista,0.00257
+São José do Barreiro,0.0007
+São José do Rio Pardo,0.02636
+São José do Rio Preto,0.2326
+São José dos Campos,0.50164
+São Lourenço da Serra,0.00317
+São Luiz do Paraitinga,0.00227
+São Manuel,0.01487
+São Miguel Arcanjo,0.01059
+São Paulo,9.19849
+São Pedro,0.00983
+São Pedro do Turvo,0.0026
+São Roque,0.03829
+São Sebastião,0.17763
+São Sebastião da Grama,0.00475
+São Simão,0.00556
+São Vicente,0.06792
+Sarapuí,0.00226
+Sarutaiá,0.00107
+Sebastianópolis do Sul,0.00463
+Serra Azul,0.00217
+Serrana,0.01497
+Serra Negra,0.00938
+Sertãozinho,0.07888
+Sete Barras,0.00421
+Severínia,0.00302
+Silveiras,0.00103
+Socorro,0.01243
+Sorocaba,0.49415
+Sud Mennucci,0.00252
+Sumaré,0.17953
+Suzano,0.16435
+Suzanápolis,0.00379
+Tabapuã,0.00319
+Tabatinga,0.00378
+Taboão da Serra,0.11419
+Taciba,0.00207
+Taguaí,0.00381
+Taiaçu,0.00122
+Taiúva,0.00155
+Tambaú,0.00777
+Tanabi,0.01469
+Tapiraí,0.00205
+Tapiratiba,0.00334
+Taquaral,0.00052
+Taquaritinga,0.01842
+Taquarituba,0.01096
+Taquarivaí,0.00408
+Tarabai,0.00187
+Tarumã,0.00995
+Tatuí,0.05633
+Taubaté,0.17976
+Tejupá,0.00153
+Teodoro Sampaio,0.00696
+Terra Roxa,0.00194
+Tietê,0.02395
+Timburi,0.00074
+Torre de Pedra,0.00042
+Torrinha,0.00316
+Trabiju,0.0005
+Tremembé,0.00995
+Três Fronteiras,0.00135
+Tuiuti,0.00202
+Tupã,0.02456
+Tupi Paulista,0.00378
+Turiúba,0.00063
+Turmalina,0.00082
+Ubarana,0.00236
+Ubatuba,0.03003
+Ubirajara,0.00127
+Uchoa,0.00446
+União Paulista,0.00064
+Urânia,0.00317
+Uru,0.00051
+Urupês,0.00536
+Valentim Gentil,0.00486
+Valinhos,0.08843
+Valparaíso,0.01372
+Vargem,0.0017
+Vargem Grande do Sul,0.01428
+Vargem Grande Paulista,0.03216
+Várzea Paulista,0.04401
+Vera Cruz,0.00267
+Vinhedo,0.13934
+Viradouro,0.00492
+Vista Alegre do Alto,0.00472
+Vitória Brasil,0.0005
+Votorantim,0.04349
+Votuporanga,0.04286
+Zacarias,0.00144
+Chavantes,0.00296
+Estiva Gerbi,0.00432
+Abatiá,0.00246
+Adrianópolis,0.00409
+Agudos do Sul,0.00241
+Almirante Tamandaré,0.02149
+Altamira do Paraná,0.00107
+Altônia,0.00513
+Alto Paraná,0.00484
+Alto Piquiri,0.00454
+Alvorada do Sul,0.00375
+Amaporã,0.00134
+Ampére,0.00833
+Anahy,0.00128
+Andirá,0.00906
+Ângulo,0.00171
+Antonina,0.00778
+Antônio Olinto,0.00259
+Apucarana,0.04299
+Arapongas,0.05497
+Arapoti,0.01606
+Arapuã,0.00169
+Araruna,0.00607
+Araucária,0.28037
+Ariranha do Ivaí,0.00143
+Assaí,0.00599
+Assis Chateaubriand,0.01812
+Astorga,0.0098
+Atalaia,0.00197
+Balsa Nova,0.01028
+Bandeirantes,0.01147
+Barbosa Ferraz,0.00332
+Barracão,0.00293
+Barra do Jacaré,0.00167
+Bela Vista da Caroba,0.00119
+Bela Vista do Paraíso,0.00581
+Bituruna,0.00613
+Boa Esperança,0.00317
+Boa Esperança do Iguaçu,0.00158
+Boa Ventura de São Roque,0.00401
+Boa Vista da Aparecida,0.00206
+Bocaiúva do Sul,0.00311
+Bom Jesus do Sul,0.00128
+Bom Sucesso,0.00175
+Bom Sucesso do Sul,0.00333
+Borrazópolis,0.00273
+Braganey,0.00268
+Brasilândia do Sul,0.00306
+Cafeara,0.00127
+Cafelândia,0.02163
+Cafezal do Sul,0.00165
+Califórnia,0.00281
+Cambará,0.00909
+Cambé,0.05581
+Cambira,0.00311
+Campina da Lagoa,0.00642
+Campina do Simão,0.00167
+Campina Grande do Sul,0.02415
+Campo Bonito,0.00249
+Campo do Tenente,0.0029
+Campo Largo,0.06362
+Campo Magro,0.00601
+Campo Mourão,0.05712
+Cândido de Abreu,0.00468
+Candói,0.00943
+Cantagalo,0.00373
+Capanema,0.01228
+Capitão Leônidas Marques,0.01393
+Carambeí,0.01752
+Carlópolis,0.00509
+Cascavel,0.17518
+Castro,0.04029
+Catanduvas,0.00395
+Centenário do Sul,0.00486
+Cerro Azul,0.0045
+Céu Azul,0.01046
+Chopinzinho,0.01009
+Cianorte,0.03373
+Cidade Gaúcha,0.00479
+Clevelândia,0.0093
+Colombo,0.06318
+Colorado,0.00884
+Congonhinhas,0.00317
+Conselheiro Mairinck,0.00169
+Contenda,0.00619
+Corbélia,0.01181
+Cornélio Procópio,0.02011
+Coronel Domingos Soares,0.00359
+Coronel Vivida,0.00985
+Corumbataí do Sul,0.00097
+Cruzeiro do Iguaçu,0.00197
+Cruzeiro do Oeste,0.00954
+Cruzeiro do Sul,0.00228
+Cruz Machado,0.0056
+Cruzmaltina,0.00168
+Curitiba,1.08746
+Curiúva,0.00306
+Diamante do Norte,0.00331
+Diamante do Sul,0.00083
+Diamante D'Oeste,0.00142
+Dois Vizinhos,0.02249
+Douradina,0.00933
+Doutor Camargo,0.00222
+Enéas Marques,0.00345
+Engenheiro Beltrão,0.00629
+Esperança Nova,0.00072
+Entre Rios do Oeste,0.00347
+Espigão Alto do Iguaçu,0.00181
+Farol,0.00239
+Faxinal,0.00555
+Fazenda Rio Grande,0.03676
+Fênix,0.00236
+Fernandes Pinheiro,0.00282
+Figueira,0.00179
+Floraí,0.00265
+Flor da Serra do Sul,0.00203
+Floresta,0.00301
+Florestópolis,0.00444
+Flórida,0.00089
+Formosa do Oeste,0.00411
+Foz do Iguaçu,0.21049
+Francisco Alves,0.00322
+Francisco Beltrão,0.041
+Foz do Jordão,0.00204
+General Carneiro,0.00494
+Godoy Moreira,0.0008
+Goioerê,0.01192
+Goioxim,0.00343
+Grandes Rios,0.00192
+Guaíra,0.01265
+Guairaçá,0.00302
+Guamiranga,0.00327
+Guapirama,0.00196
+Guaporema,0.00087
+Guaraci,0.00248
+Guaraniaçu,0.00568
+Guarapuava,0.0922
+Guaraqueçaba,0.00131
+Guaratuba,0.0109
+Honório Serpa,0.00331
+Ibaiti,0.00975
+Ibema,0.00202
+Ibiporã,0.03677
+Icaraíma,0.00275
+Iguaraçu,0.00236
+Iguatu,0.00093
+Imbaú,0.00306
+Imbituva,0.01432
+Inácio Martins,0.00295
+Inajá,0.00065
+Indianópolis,0.00563
+Ipiranga,0.00683
+Iporã,0.00663
+Iracema do Oeste,0.00216
+Irati,0.02537
+Iretama,0.00393
+Itaguajé,0.00135
+Itaipulândia,0.00582
+Itambaracá,0.00248
+Itambé,0.00253
+Itapejara d'Oeste,0.00836
+Itaperuçu,0.00696
+Itaúna do Sul,0.00097
+Ivaí,0.00552
+Ivaiporã,0.01052
+Ivaté,0.00226
+Ivatuba,0.00159
+Jaboti,0.00178
+Jacarezinho,0.01773
+Jaguapitã,0.01164
+Jaguariaíva,0.01985
+Jandaia do Sul,0.00877
+Janiópolis,0.00268
+Japira,0.00181
+Japurá,0.00356
+Jardim Alegre,0.00415
+Jardim Olinda,0.00063
+Jataizinho,0.00314
+Jesuítas,0.0049
+Joaquim Távora,0.00754
+Jundiaí do Sul,0.00142
+Juranda,0.00489
+Jussara,0.0045
+Kaloré,0.00184
+Lapa,0.03153
+Laranjal,0.00125
+Laranjeiras do Sul,0.0114
+Leópolis,0.00252
+Lidianópolis,0.00139
+Lindoeste,0.00223
+Loanda,0.00774
+Lobato,0.00239
+Londrina,0.26192
+Luiziana,0.00607
+Lunardelli,0.00158
+Lupionópolis,0.00146
+Mallet,0.00842
+Mamborê,0.0088
+Mandaguaçu,0.00763
+Mandaguari,0.02037
+Mandirituba,0.00738
+Manfrinópolis,0.0009
+Mangueirinha,0.01968
+Manoel Ribas,0.0059
+Marechal Cândido Rondon,0.03244
+Maria Helena,0.00149
+Marialva,0.02945
+Marilândia do Sul,0.00518
+Marilena,0.00194
+Mariluz,0.00316
+Maringá,0.2514
+Mariópolis,0.00488
+Maripá,0.00531
+Marmeleiro,0.00705
+Marquinho,0.00124
+Marumbi,0.00115
+Matelândia,0.01217
+Matinhos,0.0099
+Mato Rico,0.00137
+Mauá da Serra,0.00415
+Medianeira,0.0271
+Mercedes,0.00309
+Mirador,0.00141
+Miraselva,0.00058
+Missal,0.00518
+Moreira Sales,0.0034
+Morretes,0.00432
+Munhoz de Melo,0.00152
+Nossa Senhora das Graças,0.0011
+Nova Aliança do Ivaí,0.00058
+Nova América da Colina,0.00108
+Nova Aurora,0.0091
+Nova Cantu,0.00386
+Nova Esperança,0.01047
+Nova Esperança do Sudoeste,0.00183
+Nova Fátima,0.00349
+Nova Laranjeiras,0.00342
+Nova Londrina,0.00492
+Nova Olímpia,0.00121
+Nova Santa Bárbara,0.00123
+Nova Santa Rosa,0.00488
+Nova Prata do Iguaçu,0.00547
+Nova Tebas,0.00211
+Novo Itacolomi,0.00101
+Ortigueira,0.03025
+Ourizona,0.00185
+Ouro Verde do Oeste,0.00354
+Paiçandu,0.01174
+Palmas,0.01794
+Palmeira,0.01822
+Palmital,0.00367
+Palotina,0.03125
+Paraíso do Norte,0.00419
+Paranacity,0.00361
+Paranaguá,0.15143
+Paranapoema,0.00102
+Paranavaí,0.03529
+Pato Bragado,0.0027
+Pato Branco,0.05047
+Paula Freitas,0.00488
+Paulo Frontin,0.0044
+Peabiru,0.00504
+Perobal,0.00313
+Pérola,0.00399
+Pérola d'Oeste,0.00264
+Piên,0.01017
+Pinhais,0.08836
+Pinhalão,0.00279
+Pinhal de São Bento,0.00089
+Pinhão,0.01992
+Piraí do Sul,0.01322
+Piraquara,0.01713
+Pitanga,0.01266
+Pitangueiras,0.00135
+Planaltina do Paraná,0.00115
+Planalto,0.00472
+Ponta Grossa,0.21627
+Pontal do Paraná,0.00725
+Porecatu,0.00615
+Porto Amazonas,0.00181
+Porto Barreiro,0.00189
+Porto Rico,0.00121
+Porto Vitória,0.0011
+Prado Ferreira,0.0019
+Pranchita,0.00366
+Presidente Castelo Branco,0.00164
+Primeiro de Maio,0.00412
+Prudentópolis,0.01744
+Quarto Centenário,0.00403
+Quatiguá,0.00235
+Quatro Barras,0.02154
+Quatro Pontes,0.00281
+Quedas do Iguaçu,0.01627
+Querência do Norte,0.00292
+Quinta do Sol,0.00286
+Quitandinha,0.00565
+Ramilândia,0.00126
+Rancho Alegre,0.00206
+Rancho Alegre D'Oeste,0.00261
+Realeza,0.00825
+Rebouças,0.00595
+Renascença,0.00469
+Reserva,0.0084
+Reserva do Iguaçu,0.00289
+Ribeirão Claro,0.00426
+Ribeirão do Pinhal,0.00375
+Rio Azul,0.0081
+Rio Bom,0.00116
+Rio Bonito do Iguaçu,0.0049
+Rio Branco do Ivaí,0.00128
+Rio Branco do Sul,0.01526
+Rio Negro,0.01441
+Rolândia,0.03967
+Roncador,0.00664
+Rondon,0.00388
+Rosário do Ivaí,0.00144
+Sabáudia,0.00783
+Salgado Filho,0.00138
+Salto do Itararé,0.00115
+Salto do Lontra,0.00588
+Santa Amélia,0.00112
+Santa Cecília do Pavão,0.0017
+Santa Cruz de Monte Castelo,0.00416
+Santa Fé,0.00355
+Santa Helena,0.01626
+Santa Inês,0.00057
+Santa Isabel do Ivaí,0.00281
+Santa Izabel do Oeste,0.00518
+Santa Lúcia,0.00155
+Santa Maria do Oeste,0.00297
+Santa Mariana,0.00547
+Santa Mônica,0.00101
+Santana do Itararé,0.0019
+Santa Tereza do Oeste,0.00646
+Santa Terezinha de Itaipu,0.00763
+Santo Antônio da Platina,0.01671
+Santo Antônio do Caiuá,0.0006
+Santo Antônio do Paraíso,0.00117
+Santo Antônio do Sudoeste,0.00719
+Santo Inácio,0.0059
+São Carlos do Ivaí,0.00439
+São Jerônimo da Serra,0.00358
+São João,0.00988
+São João do Caiuá,0.00172
+São João do Ivaí,0.00401
+São João do Triunfo,0.00643
+São Jorge d'Oeste,0.00525
+São Jorge do Ivaí,0.00445
+São Jorge do Patrocínio,0.00161
+São José da Boa Vista,0.00255
+São José das Palmeiras,0.0011
+São José dos Pinhais,0.2997
+São Manoel do Paraná,0.00069
+São Mateus do Sul,0.01683
+São Miguel do Iguaçu,0.01631
+São Pedro do Iguaçu,0.00274
+São Pedro do Ivaí,0.00411
+São Pedro do Paraná,0.001
+São Sebastião da Amoreira,0.00333
+São Tomé,0.00181
+Sapopema,0.00171
+Sarandi,0.023
+Saudade do Iguaçu,0.00873
+Sengés,0.00738
+Serranópolis do Iguaçu,0.00323
+Sertaneja,0.00462
+Sertanópolis,0.00767
+Siqueira Campos,0.00784
+Sulina,0.00176
+Tamarana,0.00435
+Tamboara,0.0014
+Tapejara,0.00551
+Tapira,0.0017
+Teixeira Soares,0.00684
+Telêmaco Borba,0.05452
+Terra Boa,0.00632
+Terra Rica,0.00417
+Terra Roxa,0.00992
+Tibagi,0.01598
+Tijucas do Sul,0.0064
+Toledo,0.08303
+Tomazina,0.0036
+Três Barras do Paraná,0.00484
+Tunas do Paraná,0.0016
+Tuneiras do Oeste,0.00259
+Tupãssi,0.00479
+Turvo,0.00668
+Ubiratã,0.01902
+Umuarama,0.04554
+União da Vitória,0.02174
+Uniflor,0.00111
+Uraí,0.00408
+Wenceslau Braz,0.00789
+Ventania,0.00386
+Vera Cruz do Oeste,0.00379
+Verê,0.00555
+Alto Paraíso,0.00126
+Doutor Ulysses,0.0011
+Virmond,0.00211
+Vitorino,0.00553
+Xambrê,0.00133
+Abdon Batista,0.00083
+Abelardo Luz,0.00872
+Agrolândia,0.0044
+Agronômica,0.00258
+Água Doce,0.00722
+Águas de Chapecó,0.00153
+Águas Frias,0.00181
+Águas Mornas,0.00221
+Alfredo Wagner,0.00373
+Alto Bela Vista,0.00088
+Anchieta,0.00226
+Angelina,0.00194
+Anita Garibaldi,0.00257
+Anitápolis,0.00094
+Antônio Carlos,0.00884
+Apiúna,0.00491
+Arabutã,0.00316
+Araquari,0.08308
+Araranguá,0.02646
+Armazém,0.00302
+Arroio Trinta,0.0014
+Arvoredo,0.00226
+Ascurra,0.00272
+Atalanta,0.0014
+Aurora,0.00451
+Balneário Arroio do Silva,0.00246
+Balneário Camboriú,0.08164
+Balneário Barra do Sul,0.00282
+Balneário Gaivota,0.00241
+Bandeirante,0.00113
+Barra Bonita,0.00058
+Barra Velha,0.02632
+Bela Vista do Toldo,0.00218
+Belmonte,0.00064
+Benedito Novo,0.00522
+Biguaçu,0.02962
+Blumenau,0.22832
+Bocaina do Sul,0.00151
+Bombinhas,0.00973
+Bom Jardim da Serra,0.00412
+Bom Jesus,0.00178
+Bom Jesus do Oeste,0.00082
+Bom Retiro,0.00469
+Botuverá,0.00478
+Braço do Norte,0.01936
+Braço do Trombudo,0.00278
+Brunópolis,0.00153
+Brusque,0.09679
+Caçador,0.05218
+Caibi,0.00351
+Calmon,0.00108
+Camboriú,0.02488
+Capão Alto,0.00261
+Campo Alegre,0.00776
+Campo Belo do Sul,0.0037
+Campo Erê,0.00486
+Campos Novos,0.02896
+Canelinha,0.00328
+Canoinhas,0.02444
+Capinzal,0.01188
+Capivari de Baixo,0.01496
+Catanduvas,0.00589
+Caxambu do Sul,0.00182
+Celso Ramos,0.00073
+Cerro Negro,0.00157
+Chapadão do Lageado,0.00109
+Chapecó,0.15194
+Cocal do Sul,0.00982
+Concórdia,0.05059
+Cordilheira Alta,0.00482
+Coronel Freitas,0.00423
+Coronel Martins,0.00064
+Corupá,0.00885
+Correia Pinto,0.00656
+Criciúma,0.11167
+Cunha Porã,0.01029
+Cunhataí,0.00074
+Curitibanos,0.02081
+Descanso,0.00332
+Dionísio Cerqueira,0.00706
+Dona Emma,0.00184
+Doutor Pedrinho,0.00195
+Entre Rios,0.00068
+Ermo,0.00196
+Erval Velho,0.00203
+Faxinal dos Guedes,0.00841
+Flor do Sertão,0.00071
+Florianópolis,0.26137
+Formosa do Sul,0.00087
+Forquilhinha,0.01359
+Fraiburgo,0.01413
+Frei Rogério,0.00113
+Galvão,0.00111
+Garopaba,0.00858
+Garuva,0.02256
+Gaspar,0.04612
+Governador Celso Ramos,0.00499
+Grão-Pará,0.00365
+Gravatal,0.0043
+Guabiruba,0.01401
+Guaraciaba,0.00504
+Guaramirim,0.0279
+Guarujá do Sul,0.00225
+Guatambú,0.00394
+Herval d'Oeste,0.00692
+Ibiam,0.00084
+Ibicaré,0.00161
+Ibirama,0.00665
+Içara,0.03907
+Ilhota,0.01348
+Imaruí,0.0028
+Imbituba,0.02777
+Imbuia,0.00289
+Indaial,0.04078
+Iomerê,0.00253
+Ipira,0.00119
+Iporã do Oeste,0.00423
+Ipuaçu,0.00357
+Ipumirim,0.00517
+Iraceminha,0.00148
+Irani,0.00314
+Irati,0.00063
+Irineópolis,0.00509
+Itá,0.00449
+Itaiópolis,0.01162
+Itajaí,0.52989
+Itapema,0.03205
+Itapiranga,0.01181
+Itapoá,0.01874
+Ituporanga,0.01553
+Jaborá,0.00201
+Jacinto Machado,0.00588
+Jaguaruna,0.00945
+Jaraguá do Sul,0.13373
+Jardinópolis,0.00075
+Joaçaba,0.02642
+Joinville,0.5001
+José Boiteux,0.00145
+Jupiá,0.00098
+Lacerdópolis,0.00153
+Lages,0.07297
+Laguna,0.01213
+Lajeado Grande,0.00066
+Laurentino,0.00494
+Lauro Müller,0.00465
+Lebon Régis,0.00462
+Leoberto Leal,0.00133
+Lindóia do Sul,0.00169
+Lontras,0.00517
+Luiz Alves,0.0088
+Luzerna,0.00325
+Macieira,0.00066
+Mafra,0.02763
+Major Gercino,0.00069
+Major Vieira,0.00333
+Maracajá,0.00303
+Maravilha,0.01991
+Marema,0.00109
+Massaranduba,0.00834
+Matos Costa,0.00069
+Meleiro,0.00378
+Mirim Doce,0.00099
+Modelo,0.00189
+Mondaí,0.01208
+Monte Carlo,0.00259
+Monte Castelo,0.00263
+Morro da Fumaça,0.01023
+Morro Grande,0.00161
+Navegantes,0.06816
+Nova Erechim,0.00274
+Nova Itaberaba,0.0021
+Nova Trento,0.00767
+Nova Veneza,0.01192
+Novo Horizonte,0.00133
+Orleans,0.01318
+Otacílio Costa,0.01107
+Ouro,0.0028
+Ouro Verde,0.00152
+Paial,0.00065
+Painel,0.00094
+Palhoça,0.09108
+Palma Sola,0.00369
+Palmeira,0.00208
+Palmitos,0.01014
+Papanduva,0.00947
+Paraíso,0.00159
+Passo de Torres,0.00263
+Passos Maia,0.00194
+Paulo Lopes,0.00277
+Pedras Grandes,0.0027
+Penha,0.0115
+Peritiba,0.00134
+Pescaria Brava,0.00133
+Petrolândia,0.00248
+Balneário Piçarras,0.0168
+Pinhalzinho,0.0168
+Pinheiro Preto,0.00252
+Piratuba,0.00889
+Planalto Alegre,0.00157
+Pomerode,0.03114
+Ponte Alta,0.00195
+Ponte Alta do Norte,0.00185
+Ponte Serrada,0.00323
+Porto Belo,0.01633
+Porto União,0.01276
+Pouso Redondo,0.00798
+Praia Grande,0.00248
+Presidente Castello Branco,0.00084
+Presidente Getúlio,0.01093
+Presidente Nereu,0.0007
+Princesa,0.00151
+Quilombo,0.00513
+Rancho Queimado,0.00184
+Rio das Antas,0.0032
+Rio do Campo,0.00236
+Rio do Oeste,0.00306
+Rio dos Cedros,0.00527
+Rio do Sul,0.04094
+Rio Fortuna,0.00336
+Rio Negrinho,0.01791
+Rio Rufino,0.00078
+Riqueza,0.00164
+Rodeio,0.00433
+Romelândia,0.00124
+Salete,0.00353
+Saltinho,0.00104
+Salto Veloso,0.00296
+Sangão,0.00518
+Santa Cecília,0.00735
+Santa Helena,0.00115
+Santa Rosa de Lima,0.00081
+Santa Rosa do Sul,0.00221
+Santa Terezinha,0.00298
+Santa Terezinha do Progresso,0.00072
+Santiago do Sul,0.00054
+Santo Amaro da Imperatriz,0.01394
+São Bernardino,0.00098
+São Bento do Sul,0.05212
+São Bonifácio,0.00125
+São Carlos,0.00578
+São Cristóvão do Sul,0.00244
+São Domingos,0.00499
+São Francisco do Sul,0.0945
+São João do Oeste,0.00392
+São João Batista,0.01143
+São João do Itaperiú,0.00375
+São João do Sul,0.00314
+São Joaquim,0.01257
+São José,0.15355
+São José do Cedro,0.0063
+São José do Cerrito,0.00354
+São Lourenço do Oeste,0.01542
+São Ludgero,0.01031
+São Martinho,0.00121
+São Miguel da Boa Vista,0.00056
+São Miguel do Oeste,0.02412
+São Pedro de Alcântara,0.00112
+Saudades,0.00585
+Schroeder,0.00843
+Seara,0.01308
+Serra Alta,0.00131
+Siderópolis,0.00754
+Sombrio,0.0101
+Sul Brasil,0.00093
+Taió,0.00937
+Tangará,0.00667
+Tigrinhos,0.00073
+Tijucas,0.02705
+Timbé do Sul,0.00172
+Timbó,0.02812
+Timbó Grande,0.00337
+Três Barras,0.0169
+Treviso,0.00258
+Treze de Maio,0.00222
+Treze Tílias,0.0092
+Trombudo Central,0.00486
+Tubarão,0.05345
+Tunápolis,0.00202
+Turvo,0.00819
+União do Oeste,0.00094
+Urubici,0.00395
+Urupema,0.00098
+Urussanga,0.01206
+Vargeão,0.00223
+Vargem,0.00129
+Vargem Bonita,0.00599
+Vidal Ramos,0.00394
+Videira,0.03835
+Vitor Meireles,0.00158
+Witmarsum,0.00194
+Xanxerê,0.0297
+Xavantina,0.00235
+Xaxim,0.01654
+Zortéa,0.00115
+Balneário Rincão,0.00327
+Aceguá,0.00508
+Água Santa,0.00607
+Agudo,0.00741
+Ajuricaba,0.00578
+Alecrim,0.0018
+Alegrete,0.03417
+Alegria,0.00174
+Almirante Tamandaré do Sul,0.00307
+Alpestre,0.00218
+Alto Alegre,0.00118
+Alto Feliz,0.00179
+Alvorada,0.03664
+Amaral Ferrador,0.00164
+Ametista do Sul,0.00197
+André da Rocha,0.00214
+Anta Gorda,0.00358
+Antônio Prado,0.00885
+Arambaré,0.00316
+Araricá,0.00262
+Aratiba,0.01051
+Arroio do Meio,0.01705
+Arroio do Sal,0.00317
+Arroio do Padre,0.00085
+Arroio dos Ratos,0.00397
+Arroio do Tigre,0.00476
+Arroio Grande,0.01256
+Arvorezinha,0.00373
+Augusto Pestana,0.00559
+Áurea,0.00181
+Bagé,0.04159
+Balneário Pinhal,0.00346
+Barão,0.00342
+Barão de Cotegipe,0.00379
+Barão do Triunfo,0.00158
+Barracão,0.00352
+Barra do Guarita,0.00063
+Barra do Quaraí,0.00429
+Barra do Ribeiro,0.00561
+Barra do Rio Azul,0.0009
+Barra Funda,0.00183
+Barros Cassal,0.00271
+Benjamin Constant do Sul,0.00055
+Bento Gonçalves,0.0832
+Boa Vista das Missões,0.00265
+Boa Vista do Buricá,0.00363
+Boa Vista do Cadeado,0.0052
+Boa Vista do Incra,0.00426
+Boa Vista do Sul,0.00133
+Bom Jesus,0.00681
+Bom Princípio,0.01006
+Bom Progresso,0.00096
+Bom Retiro do Sul,0.00447
+Boqueirão do Leão,0.00167
+Bossoroca,0.00544
+Bozano,0.00252
+Braga,0.00145
+Brochier,0.00131
+Butiá,0.00603
+Caçapava do Sul,0.01246
+Cacequi,0.00691
+Cachoeira do Sul,0.03931
+Cachoeirinha,0.07166
+Cacique Doble,0.00188
+Caibaté,0.00294
+Caiçara,0.0017
+Camaquã,0.03022
+Camargo,0.00578
+Cambará do Sul,0.00269
+Campestre da Serra,0.00227
+Campina das Missões,0.00265
+Campinas do Sul,0.00443
+Campo Bom,0.03995
+Campo Novo,0.00361
+Campos Borges,0.00166
+Candelária,0.01196
+Cândido Godói,0.00398
+Candiota,0.03045
+Canela,0.0177
+Canguçu,0.01842
+Canoas,0.24406
+Canudos do Vale,0.00075
+Capão Bonito do Sul,0.0038
+Capão da Canoa,0.02182
+Capão do Cipó,0.00716
+Capão do Leão,0.00921
+Capivari do Sul,0.00429
+Capela de Santana,0.00331
+Capitão,0.00106
+Carazinho,0.04269
+Caraá,0.00184
+Carlos Barbosa,0.03916
+Carlos Gomes,0.00078
+Casca,0.00797
+Caseiros,0.00221
+Catuípe,0.00708
+Caxias do Sul,0.35162
+Centenário,0.00134
+Cerrito,0.00179
+Cerro Branco,0.001
+Cerro Grande,0.00083
+Cerro Grande do Sul,0.00225
+Cerro Largo,0.00884
+Chapada,0.00823
+Charqueadas,0.01927
+Charrua,0.00166
+Chiapetta,0.00431
+Chuí,0.00411
+Chuvisca,0.00144
+Cidreira,0.00402
+Ciríaco,0.00293
+Colinas,0.00097
+Colorado,0.00375
+Condor,0.00693
+Constantina,0.0048
+Coqueiro Baixo,0.00058
+Coqueiros do Sul,0.00211
+Coronel Barros,0.00251
+Coronel Bicaco,0.00572
+Coronel Pilar,0.00054
+Cotiporã,0.00186
+Coxilha,0.00469
+Crissiumal,0.00565
+Cristal,0.00343
+Cristal do Sul,0.00105
+Cruz Alta,0.05115
+Cruzaltense,0.00161
+Cruzeiro do Sul,0.00591
+David Canabarro,0.00255
+Derrubadas,0.00165
+Dezesseis de Novembro,0.00063
+Dilermando de Aguiar,0.00297
+Dois Irmãos,0.02428
+Dois Irmãos das Missões,0.00221
+Dois Lajeados,0.00192
+Dom Feliciano,0.00396
+Dom Pedro de Alcântara,0.00073
+Dom Pedrito,0.02453
+Dona Francisca,0.00118
+Doutor Maurício Cardoso,0.00289
+Doutor Ricardo,0.00088
+Eldorado do Sul,0.02353
+Encantado,0.01296
+Encruzilhada do Sul,0.01199
+Engenho Velho,0.00081
+Entre-Ijuís,0.00763
+Entre Rios do Sul,0.0023
+Erebango,0.002
+Erechim,0.07637
+Ernestina,0.00295
+Herval,0.00281
+Erval Grande,0.00167
+Erval Seco,0.00393
+Esmeralda,0.00436
+Esperança do Sul,0.0013
+Espumoso,0.01235
+Estação,0.00389
+Estância Velha,0.02081
+Esteio,0.04161
+Estrela,0.02409
+Estrela Velha,0.00219
+Eugênio de Castro,0.0045
+Fagundes Varela,0.0022
+Farroupilha,0.04881
+Faxinal do Soturno,0.003
+Faxinalzinho,0.00114
+Fazenda Vilanova,0.00156
+Feliz,0.00654
+Flores da Cunha,0.02816
+Floriano Peixoto,0.00114
+Fontoura Xavier,0.00252
+Formigueiro,0.00336
+Forquetinha,0.00065
+Fortaleza dos Valos,0.00627
+Frederico Westphalen,0.01587
+Garibaldi,0.03327
+Garruchos,0.00223
+Gaurama,0.00314
+General Câmara,0.00307
+Gentil,0.00212
+Getúlio Vargas,0.00881
+Giruá,0.01335
+Glorinha,0.00513
+Gramado,0.02949
+Gramado dos Loureiros,0.00105
+Gramado Xavier,0.00121
+Gravataí,0.11386
+Guabiju,0.00147
+Guaíba,0.09193
+Guaporé,0.01275
+Guarani das Missões,0.00402
+Harmonia,0.00272
+Herveiras,0.00079
+Horizontina,0.02894
+Hulha Negra,0.00349
+Humaitá,0.00254
+Ibarama,0.00125
+Ibiaçá,0.00408
+Ibiraiaras,0.00444
+Ibirapuitã,0.00237
+Ibirubá,0.01911
+Igrejinha,0.02096
+Ijuí,0.05759
+Ilópolis,0.00156
+Imbé,0.00696
+Imigrante,0.00576
+Independência,0.00548
+Inhacorá,0.00123
+Ipê,0.00331
+Ipiranga do Sul,0.00197
+Iraí,0.00282
+Itaara,0.00318
+Itacurubi,0.00273
+Itapuca,0.00105
+Itaqui,0.02427
+Itati,0.00096
+Itatiba do Sul,0.00091
+Ivorá,0.0008
+Ivoti,0.0131
+Jaboticaba,0.00152
+Jacuizinho,0.00249
+Jacutinga,0.00258
+Jaguarão,0.01176
+Jaguari,0.00419
+Jaquirana,0.00104
+Jari,0.0052
+Jóia,0.01082
+Júlio de Castilhos,0.02136
+Lagoa Bonita do Sul,0.00076
+Lagoão,0.00172
+Lagoa dos Três Cantos,0.00174
+Lagoa Vermelha,0.01679
+Lajeado,0.0621
+Lajeado do Bugre,0.00083
+Lavras do Sul,0.00552
+Liberato Salzano,0.00191
+Lindolfo Collor,0.00406
+Linha Nova,0.00073
+Machadinho,0.00303
+Maçambará,0.00646
+Mampituba,0.00078
+Manoel Viana,0.00607
+Maquiné,0.00211
+Maratá,0.0009
+Marau,0.03395
+Marcelino Ramos,0.00186
+Mariana Pimentel,0.00116
+Mariano Moro,0.00081
+Marques de Souza,0.00138
+Mata,0.00188
+Mato Castelhano,0.00187
+Mato Leitão,0.002
+Mato Queimado,0.00098
+Maximiliano de Almeida,0.00179
+Minas do Leão,0.0031
+Miraguaí,0.00211
+Montauri,0.00109
+Monte Alegre dos Campos,0.00122
+Monte Belo do Sul,0.00105
+Montenegro,0.06383
+Mormaço,0.0017
+Morrinhos do Sul,0.0009
+Morro Redondo,0.00147
+Morro Reuter,0.00304
+Mostardas,0.00714
+Muçum,0.00335
+Muitos Capões,0.01245
+Muliterno,0.00102
+Não-Me-Toque,0.0245
+Nicolau Vergueiro,0.00162
+Nonoai,0.00583
+Nova Alvorada,0.00263
+Nova Araçá,0.00363
+Nova Bassano,0.0089
+Nova Boa Vista,0.00161
+Nova Bréscia,0.00157
+Nova Candelária,0.00255
+Nova Esperança do Sul,0.00191
+Nova Hartz,0.00894
+Nova Pádua,0.00111
+Nova Palma,0.00425
+Nova Petrópolis,0.01079
+Nova Prata,0.0192
+Nova Ramada,0.00338
+Nova Roma do Sul,0.00188
+Nova Santa Rita,0.0276
+Novo Cabrais,0.00148
+Novo Hamburgo,0.11138
+Novo Machado,0.00207
+Novo Tiradentes,0.00083
+Novo Xingu,0.00083
+Novo Barreiro,0.0015
+Osório,0.02018
+Paim Filho,0.00186
+Palmares do Sul,0.00816
+Palmeira das Missões,0.02458
+Palmitinho,0.00301
+Panambi,0.03515
+Pantano Grande,0.00592
+Paraí,0.00471
+Paraíso do Sul,0.0023
+Pareci Novo,0.00151
+Parobé,0.01543
+Passa Sete,0.00148
+Passo do Sobrado,0.00255
+Passo Fundo,0.13929
+Paulo Bento,0.00217
+Paverama,0.00269
+Pedras Altas,0.00429
+Pedro Osório,0.003
+Pejuçara,0.00515
+Pelotas,0.1196
+Picada Café,0.00429
+Pinhal,0.00137
+Pinhal da Serra,0.00338
+Pinhal Grande,0.01034
+Pinheirinho do Vale,0.00146
+Pinheiro Machado,0.00441
+Pinto Bandeira,0.00082
+Pirapó,0.00105
+Piratini,0.00977
+Planalto,0.0028
+Poço das Antas,0.00146
+Pontão,0.00448
+Ponte Preta,0.00107
+Portão,0.01845
+Porto Alegre,0.90503
+Porto Lucena,0.00151
+Porto Mauá,0.00099
+Porto Vera Cruz,0.0005
+Porto Xavier,0.00234
+Pouso Novo,0.00068
+Presidente Lucena,0.00237
+Progresso,0.00185
+Protásio Alves,0.00103
+Putinga,0.00148
+Quaraí,0.00694
+Quatro Irmãos,0.00206
+Quevedos,0.00332
+Quinze de Novembro,0.00283
+Redentora,0.00258
+Relvado,0.00092
+Restinga Sêca,0.00747
+Rio dos Índios,0.00151
+Rio Grande,0.14738
+Rio Pardo,0.01543
+Riozinho,0.00173
+Roca Sales,0.00639
+Rodeio Bonito,0.0031
+Rolador,0.0018
+Rolante,0.00812
+Ronda Alta,0.00523
+Rondinha,0.00298
+Roque Gonzales,0.00485
+Rosário do Sul,0.01533
+Sagrada Família,0.00092
+Saldanha Marinho,0.00282
+Salto do Jacuí,0.01346
+Salvador das Missões,0.00198
+Salvador do Sul,0.00375
+Sananduva,0.00936
+Santa Bárbara do Sul,0.01482
+Santa Cecília do Sul,0.0016
+Santa Clara do Sul,0.00376
+Santa Cruz do Sul,0.10891
+Santa Maria,0.1061
+Santa Maria do Herval,0.0031
+Santa Margarida do Sul,0.00401
+Santana da Boa Vista,0.00405
+Sant'Ana do Livramento,0.03133
+Santa Rosa,0.04141
+Santa Tereza,0.00055
+Santa Vitória do Palmar,0.01948
+Santiago,0.02243
+Santo Ângelo,0.03529
+Santo Antônio do Palma,0.00133
+Santo Antônio da Patrulha,0.01865
+Santo Antônio das Missões,0.00748
+Santo Antônio do Planalto,0.0021
+Santo Augusto,0.00941
+Santo Cristo,0.0087
+Santo Expedito do Sul,0.00143
+São Borja,0.02853
+São Domingos do Sul,0.00137
+São Francisco de Assis,0.00892
+São Francisco de Paula,0.01139
+São Gabriel,0.03022
+São Jerônimo,0.0074
+São João da Urtiga,0.00204
+São João do Polêsine,0.00116
+São Jorge,0.00148
+São José das Missões,0.00104
+São José do Herval,0.00066
+São José do Hortêncio,0.00131
+São José do Inhacorá,0.00204
+São José do Norte,0.0088
+São José do Ouro,0.00514
+São José do Sul,0.00104
+São José dos Ausentes,0.00173
+São Leopoldo,0.12045
+São Lourenço do Sul,0.01888
+São Luiz Gonzaga,0.02112
+São Marcos,0.01271
+São Martinho,0.00393
+São Martinho da Serra,0.00373
+São Miguel das Missões,0.00963
+São Nicolau,0.00253
+São Paulo das Missões,0.00223
+São Pedro da Serra,0.00126
+São Pedro das Missões,0.00127
+São Pedro do Butiá,0.00179
+São Pedro do Sul,0.00591
+São Sebastião do Caí,0.00998
+São Sepé,0.01477
+São Valentim,0.0015
+São Valentim do Sul,0.00106
+São Valério do Sul,0.001
+São Vendelino,0.00106
+São Vicente do Sul,0.00811
+Sapiranga,0.04012
+Sapucaia do Sul,0.04665
+Sarandi,0.01442
+Seberi,0.00685
+Sede Nova,0.00175
+Segredo,0.00181
+Selbach,0.00416
+Senador Salgado Filho,0.00165
+Sentinela do Sul,0.00151
+Serafina Corrêa,0.00868
+Sério,0.00066
+Sertão,0.00593
+Sertão Santana,0.00349
+Sete de Setembro,0.00117
+Severiano de Almeida,0.00166
+Silveira Martins,0.00096
+Sinimbu,0.00237
+Sobradinho,0.00487
+Soledade,0.01559
+Tabaí,0.00158
+Tapejara,0.01825
+Tapera,0.0071
+Tapes,0.0067
+Taquara,0.01741
+Taquari,0.01214
+Taquaruçu do Sul,0.0021
+Tavares,0.00138
+Tenente Portela,0.00643
+Terra de Areia,0.00323
+Teutônia,0.01749
+Tio Hugo,0.00194
+Tiradentes do Sul,0.00218
+Toropi,0.00112
+Torres,0.01534
+Tramandaí,0.0137
+Travesseiro,0.00087
+Três Arroios,0.00157
+Três Cachoeiras,0.00342
+Três Coroas,0.00893
+Três de Maio,0.01502
+Três Forquilhas,0.00071
+Três Palmeiras,0.00198
+Três Passos,0.01146
+Trindade do Sul,0.0039
+Triunfo,0.14405
+Tucunduva,0.00288
+Tunas,0.00134
+Tupanci do Sul,0.00105
+Tupanciretã,0.02277
+Tupandi,0.00592
+Tuparendi,0.00426
+Turuçu,0.00182
+Ubiretama,0.00123
+União da Serra,0.00101
+Unistalda,0.00165
+Uruguaiana,0.04125
+Vacaria,0.03601
+Vale Verde,0.00145
+Vale do Sol,0.00303
+Vale Real,0.0022
+Vanini,0.00105
+Venâncio Aires,0.04141
+Vera Cruz,0.00917
+Veranópolis,0.01929
+Vespasiano Corrêa,0.00133
+Viadutos,0.00227
+Viamão,0.0481
+Vicente Dutra,0.0014
+Victor Graeff,0.00328
+Vila Flores,0.0033
+Vila Lângaro,0.00187
+Vila Maria,0.00432
+Vila Nova do Sul,0.00217
+Vista Alegre,0.00152
+Vista Alegre do Prata,0.00095
+Vista Gaúcha,0.00115
+Vitória das Missões,0.00177
+Westfália,0.00294
+Xangri-lá,0.00814
+Água Clara,0.01371
+Alcinópolis,0.00264
+Amambai,0.0196
+Anastácio,0.00773
+Anaurilândia,0.00463
+Angélica,0.01315
+Antônio João,0.00807
+Aparecida do Taboado,0.01547
+Aquidauana,0.01337
+Aral Moreira,0.01134
+Bandeirantes,0.00842
+Bataguassu,0.01164
+Batayporã,0.00669
+Bela Vista,0.01084
+Bodoquena,0.00391
+Bonito,0.01336
+Brasilândia,0.00956
+Caarapó,0.02328
+Camapuã,0.00707
+Campo Grande,0.38538
+Caracol,0.00199
+Cassilândia,0.00869
+Chapadão do Sul,0.02697
+Corguinho,0.00167
+Coronel Sapucaia,0.00393
+Corumbá,0.04336
+Costa Rica,0.02327
+Coxim,0.0124
+Deodápolis,0.00549
+Dois Irmãos do Buriti,0.00369
+Douradina,0.00223
+Dourados,0.13976
+Eldorado,0.00619
+Fátima do Sul,0.0072
+Figueirão,0.00159
+Glória de Dourados,0.0034
+Guia Lopes da Laguna,0.00404
+Iguatemi,0.009
+Inocência,0.00451
+Itaporã,0.01311
+Itaquiraí,0.01382
+Ivinhema,0.0191
+Japorã,0.00186
+Jaraguari,0.00419
+Jardim,0.00917
+Jateí,0.00531
+Juti,0.00515
+Ladário,0.00426
+Laguna Carapã,0.01129
+Maracaju,0.04492
+Miranda,0.00734
+Mundo Novo,0.00864
+Naviraí,0.03344
+Nioaque,0.00524
+Nova Alvorada do Sul,0.02179
+Nova Andradina,0.03423
+Novo Horizonte do Sul,0.00312
+Paraíso das Águas,0.01181
+Paranaíba,0.01829
+Paranhos,0.00327
+Pedro Gomes,0.0031
+Ponta Porã,0.05575
+Porto Murtinho,0.00529
+Ribas do Rio Pardo,0.02103
+Rio Brilhante,0.0414
+Rio Negro,0.00149
+Rio Verde de Mato Grosso,0.00703
+Rochedo,0.00311
+Santa Rita do Pardo,0.00524
+São Gabriel do Oeste,0.02476
+Sete Quedas,0.00427
+Selvíria,0.01912
+Sidrolândia,0.03559
+Sonora,0.00978
+Tacuru,0.00355
+Taquarussu,0.00202
+Terenos,0.00845
+Três Lagoas,0.1449
+Vicentina,0.00349
+Acorizal,0.00121
+Água Boa,0.0222
+Alta Floresta,0.02343
+Alto Araguaia,0.01301
+Alto Boa Vista,0.00293
+Alto Garças,0.01329
+Alto Paraguai,0.00185
+Alto Taquari,0.01438
+Apiacás,0.00259
+Araguaiana,0.0014
+Araguainha,0.00031
+Araputanga,0.00727
+Arenápolis,0.00258
+Aripuanã,0.01605
+Barão de Melgaço,0.00138
+Barra do Bugres,0.01741
+Barra do Garças,0.02849
+Bom Jesus do Araguaia,0.00853
+Brasnorte,0.02316
+Cáceres,0.02513
+Campinápolis,0.00485
+Campo Novo do Parecis,0.07668
+Campo Verde,0.0554
+Campos de Júlio,0.03665
+Canabrava do Norte,0.00296
+Canarana,0.03253
+Carlinda,0.00332
+Castanheira,0.00239
+Chapada dos Guimarães,0.01348
+Cláudia,0.01186
+Cocalinho,0.0033
+Colíder,0.01409
+Colniza,0.00942
+Comodoro,0.01396
+Confresa,0.01698
+Conquista D'Oeste,0.00159
+Cotriguaçu,0.00363
+Cuiabá,0.33008
+Curvelândia,0.00137
+Denise,0.00588
+Diamantino,0.06377
+Dom Aquino,0.00747
+Feliz Natal,0.01159
+Figueirópolis D'Oeste,0.00093
+Gaúcha do Norte,0.01432
+General Carneiro,0.00535
+Glória D'Oeste,0.00099
+Guarantã do Norte,0.0122
+Guiratinga,0.00807
+Indiavaí,0.00115
+Ipiranga do Norte,0.02136
+Itanhangá,0.00801
+Itaúba,0.00465
+Itiquira,0.0238
+Jaciara,0.01329
+Jangada,0.00209
+Jauru,0.00387
+Juara,0.01515
+Juína,0.01479
+Juruena,0.00331
+Juscimeira,0.00587
+Lambari D'Oeste,0.00272
+Lucas do Rio Verde,0.07647
+Luciara,0.00046
+Vila Bela da Santíssima Trindade,0.00709
+Marcelândia,0.00749
+Matupá,0.01424
+Mirassol d'Oeste,0.00927
+Nobres,0.01237
+Nortelândia,0.00361
+Nossa Senhora do Livramento,0.0043
+Nova Bandeirantes,0.00381
+Nova Nazaré,0.00156
+Nova Lacerda,0.00494
+Nova Santa Helena,0.0037
+Nova Brasilândia,0.00121
+Nova Canaã do Norte,0.01009
+Nova Mutum,0.06699
+Nova Olímpia,0.00812
+Nova Ubiratã,0.03629
+Nova Xavantina,0.01147
+Novo Mundo,0.0054
+Novo Horizonte do Norte,0.00113
+Novo São Joaquim,0.00958
+Paranaíta,0.00883
+Paranatinga,0.0237
+Novo Santo Antônio,0.00063
+Pedra Preta,0.01749
+Peixoto de Azevedo,0.01019
+Planalto da Serra,0.00257
+Poconé,0.00787
+Pontal do Araguaia,0.00137
+Ponte Branca,0.00035
+Pontes e Lacerda,0.02703
+Porto Alegre do Norte,0.00631
+Porto dos Gaúchos,0.01463
+Porto Esperidião,0.00342
+Porto Estrela,0.00093
+Poxoréu,0.01196
+Primavera do Leste,0.07729
+Querência,0.04726
+São José dos Quatro Marcos,0.00498
+Reserva do Cabaçal,0.00053
+Ribeirão Cascalheira,0.0084
+Ribeirãozinho,0.0021
+Rio Branco,0.00119
+Santa Carmem,0.01145
+Santo Afonso,0.00179
+São José do Povo,0.00065
+São José do Rio Claro,0.01626
+São José do Xingu,0.01037
+São Pedro da Cipa,0.00077
+Rondolândia,0.00127
+Rondonópolis,0.19191
+Rosário Oeste,0.00594
+Santa Cruz do Xingu,0.00356
+Salto do Céu,0.00105
+Santa Rita do Trivelato,0.01372
+Santa Terezinha,0.00334
+Santo Antônio do Leste,0.01132
+Santo Antônio de Leverger,0.00909
+São Félix do Araguaia,0.01801
+Sapezal,0.07744
+Serra Nova Dourada,0.00083
+Sinop,0.10679
+Sorriso,0.13895
+Tabaporã,0.01465
+Tangará da Serra,0.06197
+Tapurah,0.02228
+Terra Nova do Norte,0.00557
+Tesouro,0.00347
+Torixoréu,0.00235
+União do Sul,0.0056
+Vale de São Domingos,0.00086
+Várzea Grande,0.11004
+Vera,0.01434
+Vila Rica,0.00976
+Nova Guarita,0.00186
+Nova Marilândia,0.00469
+Nova Maringá,0.01337
+Nova Monte Verde,0.00407
+Abadia de Goiás,0.00392
+Abadiânia,0.00494
+Acreúna,0.01167
+Adelândia,0.00054
+Água Fria de Goiás,0.00592
+Água Limpa,0.00071
+Águas Lindas de Goiás,0.02733
+Alexânia,0.01252
+Aloândia,0.00071
+Alto Horizonte,0.01421
+Alto Paraíso de Goiás,0.0033
+Alvorada do Norte,0.00188
+Amaralina,0.00121
+Americano do Brasil,0.00101
+Amorinópolis,0.00132
+Anápolis,0.19738
+Anhanguera,0.00024
+Anicuns,0.00569
+Aparecida de Goiânia,0.18841
+Aparecida do Rio Doce,0.00122
+Aporé,0.00439
+Araçu,0.00082
+Aragarças,0.00308
+Aragoiânia,0.00193
+Araguapaz,0.002
+Arenópolis,0.00247
+Aruanã,0.00324
+Aurilândia,0.00091
+Avelinópolis,0.00076
+Baliza,0.00137
+Barro Alto,0.01746
+Bela Vista de Goiás,0.01643
+Bom Jardim de Goiás,0.00286
+Bom Jesus de Goiás,0.01364
+Bonfinópolis,0.00134
+Bonópolis,0.00174
+Brazabrantes,0.00104
+Britânia,0.0022
+Buriti Alegre,0.00519
+Buriti de Goiás,0.00063
+Buritinópolis,0.00099
+Cabeceiras,0.00528
+Cachoeira Alta,0.00313
+Cachoeira de Goiás,0.00043
+Cachoeira Dourada,0.00077
+Caçu,0.01004
+Caiapônia,0.00912
+Caldas Novas,0.0333
+Caldazinha,0.00094
+Campestre de Goiás,0.00081
+Campinaçu,0.00123
+Campinorte,0.0037
+Campo Alegre de Goiás,0.0094
+Campo Limpo de Goiás,0.00183
+Campos Belos,0.0035
+Campos Verdes,0.00063
+Carmo do Rio Verde,0.00542
+Castelândia,0.00102
+Catalão,0.11003
+Caturaí,0.00112
+Cavalcante,0.00425
+Ceres,0.00815
+Cezarina,0.00427
+Chapadão do Céu,0.02429
+Cidade Ocidental,0.01116
+Cocalzinho de Goiás,0.00484
+Colinas do Sul,0.00078
+Córrego do Ouro,0.00083
+Corumbá de Goiás,0.00289
+Corumbaíba,0.00787
+Cristalina,0.05107
+Cristianópolis,0.00133
+Crixás,0.00776
+Cromínia,0.0011
+Cumari,0.00107
+Damianópolis,0.0005
+Damolândia,0.00058
+Davinópolis,0.00647
+Diorama,0.00107
+Doverlândia,0.00445
+Edealina,0.0045
+Edéia,0.01025
+Estrela do Norte,0.00083
+Faina,0.00186
+Fazenda Nova,0.00169
+Firminópolis,0.00302
+Flores de Goiás,0.00278
+Formosa,0.03604
+Formoso,0.00124
+Gameleira de Goiás,0.00347
+Divinópolis de Goiás,0.00102
+Goianápolis,0.00327
+Goiandira,0.00224
+Goianésia,0.02095
+Goiânia,0.66428
+Goianira,0.01224
+Goiás,0.00847
+Goiatuba,0.02407
+Gouvelândia,0.00188
+Guapó,0.00386
+Guaraíta,0.00058
+Guarani de Goiás,0.00096
+Guarinos,0.00071
+Heitoraí,0.00093
+Hidrolândia,0.01475
+Hidrolina,0.00097
+Iaciara,0.00251
+Inaciolândia,0.00264
+Indiara,0.00728
+Inhumas,0.0156
+Ipameri,0.02696
+Ipiranga de Goiás,0.00078
+Iporá,0.00972
+Israelândia,0.00079
+Itaberaí,0.02003
+Itaguari,0.00109
+Itaguaru,0.00115
+Itajá,0.00146
+Itapaci,0.00608
+Itapirapuã,0.00247
+Itapuranga,0.00614
+Itarumã,0.0036
+Itauçu,0.00243
+Itumbiara,0.05908
+Ivolândia,0.00155
+Jandaia,0.00474
+Jaraguá,0.01021
+Jataí,0.08873
+Jaupaci,0.00092
+Jesúpolis,0.00044
+Joviânia,0.0038
+Jussara,0.00769
+Lagoa Santa,0.00057
+Leopoldo de Bulhões,0.00381
+Luziânia,0.06031
+Mairipotaba,0.00098
+Mambaí,0.00119
+Mara Rosa,0.00323
+Marzagão,0.00076
+Matrinchã,0.00189
+Maurilândia,0.00275
+Mimoso de Goiás,0.00275
+Minaçu,0.01439
+Mineiros,0.03649
+Moiporá,0.00059
+Monte Alegre de Goiás,0.00133
+Montes Claros de Goiás,0.00553
+Montividiu,0.0178
+Montividiu do Norte,0.00121
+Morrinhos,0.02061
+Morro Agudo de Goiás,0.00061
+Mossâmedes,0.00146
+Mozarlândia,0.01137
+Mundo Novo,0.00201
+Mutunópolis,0.00096
+Nazário,0.00307
+Nerópolis,0.01133
+Niquelândia,0.01433
+Nova América,0.00054
+Nova Aurora,0.00079
+Nova Crixás,0.00697
+Nova Glória,0.00157
+Nova Iguaçu de Goiás,0.00068
+Nova Roma,0.00074
+Nova Veneza,0.00219
+Novo Brasil,0.00095
+Novo Gama,0.01281
+Novo Planalto,0.00178
+Orizona,0.01041
+Ouro Verde de Goiás,0.00166
+Ouvidor,0.00849
+Padre Bernardo,0.01167
+Palestina de Goiás,0.00192
+Palmeiras de Goiás,0.01965
+Palmelo,0.00062
+Palminópolis,0.00244
+Panamá,0.00122
+Paranaiguara,0.00263
+Paraúna,0.01731
+Perolândia,0.00786
+Petrolina de Goiás,0.00198
+Pilar de Goiás,0.00214
+Piracanjuba,0.01375
+Piranhas,0.00676
+Pirenópolis,0.00711
+Pires do Rio,0.01559
+Planaltina,0.01612
+Pontalina,0.00796
+Porangatu,0.01587
+Porteirão,0.00247
+Portelândia,0.00408
+Posse,0.00781
+Professor Jamil,0.0008
+Quirinópolis,0.02383
+Rialma,0.00349
+Rianápolis,0.00092
+Rio Quente,0.00362
+Rio Verde,0.18094
+Rubiataba,0.00628
+Sanclerlândia,0.00241
+Santa Bárbara de Goiás,0.00171
+Santa Cruz de Goiás,0.00328
+Santa Fé de Goiás,0.00289
+Santa Helena de Goiás,0.01799
+Santa Isabel,0.00137
+Santa Rita do Araguaia,0.00227
+Santa Rita do Novo Destino,0.00122
+Santa Rosa de Goiás,0.00076
+Santa Tereza de Goiás,0.00097
+Santa Terezinha de Goiás,0.00212
+Santo Antônio da Barra,0.00356
+Santo Antônio de Goiás,0.00172
+Santo Antônio do Descoberto,0.00916
+São Domingos,0.00229
+São Francisco de Goiás,0.00145
+São João d'Aliança,0.00632
+São João da Paraúna,0.00155
+São Luís de Montes Belos,0.0165
+São Luiz do Norte,0.00152
+São Miguel do Araguaia,0.00767
+São Miguel do Passa Quatro,0.00351
+São Patrício,0.00059
+São Simão,0.0159
+Senador Canedo,0.05287
+Serranópolis,0.00724
+Silvânia,0.0146
+Simolândia,0.00192
+Sítio d'Abadia,0.00084
+Taquaral de Goiás,0.00099
+Teresina de Goiás,0.00043
+Terezópolis de Goiás,0.00234
+Três Ranchos,0.00071
+Trindade,0.02959
+Trombas,0.00078
+Turvânia,0.00227
+Turvelândia,0.00629
+Uirapuru,0.00086
+Uruaçu,0.01442
+Uruana,0.00327
+Urutaí,0.00183
+Valparaíso de Goiás,0.03289
+Varjão,0.00117
+Vianópolis,0.00952
+Vicentinópolis,0.00533
+Vila Boa,0.002
+Vila Propício,0.00342
+Brasília,3.18397
